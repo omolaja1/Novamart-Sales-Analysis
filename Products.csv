@@ -1,0 +1,121 @@
+ProductID,ProductName,ProductType,Category,Brand,CostPrice,SellingPrice,ProfitMargin,Stock,ReorderLevel,WarrantyMonths,LaunchYear,Status,SupplierID
+PRO001,HP Pavilion 15,Laptop,Computing,HP,648786,769936,18.67,18,5,24,2023,Active,SUP010
+PRO002,Acer Pavilion 15,Laptop,Computing,Acer,569588,657741,15.48,23,5,24,2022,Active,SUP003
+PRO003,Acer Aspire 5,Laptop,Computing,Acer,273912,323168,17.98,27,6,24,2025,Active,SUP003
+PRO004,Acer ThinkPad E14,Laptop,Computing,Acer,684374,787697,15.1,37,9,24,2023,Active,SUP003
+PRO005,Lenovo ThinkPad E14,Laptop,Computing,Lenovo,341516,441778,29.36,16,5,24,2024,Active,SUP001
+PRO006,ASUS Pavilion 15,Laptop,Computing,ASUS,448208,538563,20.16,37,9,24,2024,Active,SUP003
+PRO007,ASUS Aspire 5,Laptop,Computing,ASUS,325444,392739,20.68,39,9,24,2024,Active,SUP003
+PRO008,Acer ThinkPad E14,Laptop,Computing,Acer,562698,706571,25.57,16,5,24,2022,Active,SUP003
+PRO009,Lenovo Pavilion 15,Laptop,Computing,Lenovo,708432,906773,28.0,17,5,24,2025,Active,SUP001
+PRO010,Lenovo Inspiron 3520,Laptop,Computing,Lenovo,454081,536463,18.14,21,5,24,2024,Active,SUP001
+PRO011,HP Aspire 5,Laptop,Computing,HP,592911,729352,23.01,15,5,24,2023,Active,SUP010
+PRO012,ASUS ThinkPad E14,Laptop,Computing,ASUS,778795,970378,24.6,39,9,24,2023,Active,SUP003
+PRO013,HP Inspiron 3520,Laptop,Computing,HP,690861,877916,27.08,11,5,24,2025,Active,SUP010
+PRO014,Dell Aspire 5,Laptop,Computing,Dell,719469,861349,19.72,32,8,24,2025,Active,SUP001
+PRO015,ASUS Inspiron 3520,Laptop,Computing,ASUS,398873,473459,18.7,14,5,24,2024,Active,SUP003
+PRO016,ASUS Aspire 5,Laptop,Computing,ASUS,469400,555252,18.29,21,5,24,2023,Active,SUP003
+PRO017,HP Pavilion 15,Laptop,Computing,HP,711465,834495,17.29,13,5,24,2023,Active,SUP010
+PRO018,ASUS Aspire 5,Laptop,Computing,ASUS,293306,354091,20.72,22,5,24,2025,Active,SUP003
+PRO019,Acer Pavilion 15,Laptop,Computing,Acer,616664,719759,16.72,33,8,24,2024,Active,SUP003
+PRO020,Lenovo Pavilion 15,Laptop,Computing,Lenovo,413878,485778,17.37,23,5,24,2022,Discontinued,SUP001
+PRO021,Lenovo Aspire 5,Laptop,Computing,Lenovo,659487,808631,22.62,15,5,24,2022,Active,SUP001
+PRO022,Lenovo EliteBook 840,Laptop,Computing,Lenovo,526161,620784,17.98,29,7,24,2024,Active,SUP001
+PRO023,Acer Aspire 5,Laptop,Computing,Acer,741555,919410,23.98,10,5,24,2025,Active,SUP003
+PRO024,Lenovo ThinkPad E14,Laptop,Computing,Lenovo,385541,457302,18.61,11,5,24,2022,Active,SUP001
+PRO025,Tecno Camon 40,Smartphone,Mobile Devices,Tecno,162574,199950,22.99,68,17,12,2023,Active,SUP005
+PRO026,Tecno Camon 40,Smartphone,Mobile Devices,Tecno,666510,792985,18.98,30,7,12,2025,Discontinued,SUP005
+PRO027,Infinix Note 50,Smartphone,Mobile Devices,Infinix,300922,360130,19.68,65,16,12,2024,Active,SUP005
+PRO028,Infinix Note 50,Smartphone,Mobile Devices,Infinix,563417,668880,18.72,27,6,12,2022,Active,SUP005
+PRO029,Infinix Note 50,Smartphone,Mobile Devices,Infinix,670828,830663,23.83,34,8,12,2022,Active,SUP005
+PRO030,Samsung Galaxy A35,Smartphone,Mobile Devices,Samsung,330062,424398,28.58,24,6,12,2024,Active,SUP007
+PRO031,Apple iPhone 15,Smartphone,Mobile Devices,Apple,382004,467119,22.28,62,15,12,2023,Active,SUP002
+PRO032,Infinix Note 50,Smartphone,Mobile Devices,Infinix,694201,823634,18.64,50,12,12,2025,Active,SUP005
+PRO033,Apple iPhone 15,Smartphone,Mobile Devices,Apple,188907,235916,24.88,26,6,12,2024,Active,SUP002
+PRO034,Tecno Camon 40,Smartphone,Mobile Devices,Tecno,146802,183211,24.8,63,15,12,2022,Active,SUP005
+PRO035,Xiaomi Redmi Note 14,Smartphone,Mobile Devices,Xiaomi,204576,241141,17.87,35,8,12,2025,Active,SUP005
+PRO036,Apple iPhone 15,Smartphone,Mobile Devices,Apple,382075,453702,18.75,49,12,12,2022,Active,SUP002
+PRO037,Infinix Note 50,Smartphone,Mobile Devices,Infinix,192664,240410,24.78,23,5,12,2022,Discontinued,SUP005
+PRO038,Apple iPhone 15,Smartphone,Mobile Devices,Apple,264389,323307,22.28,46,11,12,2023,Active,SUP002
+PRO039,Samsung Galaxy A35,Smartphone,Mobile Devices,Samsung,262634,302114,15.03,44,11,12,2025,Active,SUP007
+PRO040,Tecno Camon 40,Smartphone,Mobile Devices,Tecno,389105,488127,25.45,47,11,12,2025,Active,SUP005
+PRO041,Xiaomi Redmi Note 14,Smartphone,Mobile Devices,Xiaomi,318275,393667,23.69,23,5,12,2022,Active,SUP005
+PRO042,Samsung Galaxy A35,Smartphone,Mobile Devices,Samsung,142578,174161,22.15,57,14,12,2023,Active,SUP007
+PRO043,Infinix Note 50,Smartphone,Mobile Devices,Infinix,174002,204952,17.79,74,18,12,2022,Active,SUP005
+PRO044,Apple iPhone 15,Smartphone,Mobile Devices,Apple,513389,662908,29.12,27,6,12,2023,Active,SUP002
+PRO045,Samsung Galaxy A35,Smartphone,Mobile Devices,Samsung,175965,219710,24.86,46,11,12,2024,Discontinued,SUP007
+PRO046,Apple iPhone 15,Smartphone,Mobile Devices,Apple,419445,499073,18.98,35,8,12,2023,Active,SUP002
+PRO047,Xiaomi Redmi Note 14,Smartphone,Mobile Devices,Xiaomi,569434,734201,28.94,40,10,12,2022,Active,SUP005
+PRO048,Infinix Note 50,Smartphone,Mobile Devices,Infinix,680341,789868,16.1,26,6,12,2023,Active,SUP005
+PRO049,HP 24-inch Monitor,Accessory,Peripherals,HP,14016,16895,20.54,142,35,12,2023,Active,SUP010
+PRO050,Dell Wireless Mouse,Accessory,Peripherals,Dell,77692,100204,28.98,156,39,12,2022,Discontinued,SUP001
+PRO051,HP 24-inch Monitor,Accessory,Peripherals,HP,20129,25389,26.13,107,26,12,2023,Active,SUP010
+PRO052,HP 24-inch Monitor,Accessory,Peripherals,HP,31685,40491,27.79,242,60,12,2025,Active,SUP010
+PRO053,Logitech Wireless Mouse,Accessory,Peripherals,Logitech,88136,112320,27.44,188,47,12,2022,Active,SUP006
+PRO054,HP 24-inch Monitor,Accessory,Peripherals,HP,26178,32270,23.27,193,48,12,2025,Active,SUP010
+PRO055,Logitech Wireless Mouse,Accessory,Peripherals,Logitech,24536,28348,15.54,219,54,12,2024,Active,SUP006
+PRO056,HP HD Webcam,Accessory,Peripherals,HP,21704,25963,19.62,90,22,12,2022,Active,SUP010
+PRO057,HP Mechanical Keyboard,Accessory,Peripherals,HP,18473,23405,26.7,170,42,12,2025,Discontinued,SUP010
+PRO058,HP Mechanical Keyboard,Accessory,Peripherals,HP,26299,33720,28.22,125,31,12,2022,Active,SUP010
+PRO059,Dell HD Webcam,Accessory,Peripherals,Dell,37527,44052,17.39,148,37,12,2022,Active,SUP001
+PRO060,Logitech HD Webcam,Accessory,Peripherals,Logitech,34154,43460,27.25,131,32,12,2025,Active,SUP006
+PRO061,HP Mechanical Keyboard,Accessory,Peripherals,HP,8101,9550,17.89,248,62,12,2024,Active,SUP010
+PRO062,Logitech 24-inch Monitor,Accessory,Peripherals,Logitech,51025,62577,22.64,244,61,12,2024,Discontinued,SUP006
+PRO063,Logitech 24-inch Monitor,Accessory,Peripherals,Logitech,28405,36766,29.43,228,57,12,2024,Active,SUP006
+PRO064,Microsoft 24-inch Monitor,Accessory,Peripherals,Microsoft,46114,57224,24.09,191,47,12,2022,Active,SUP013
+PRO065,HP 24-inch Monitor,Accessory,Peripherals,HP,10817,12442,15.02,191,47,12,2023,Active,SUP010
+PRO066,Logitech 24-inch Monitor,Accessory,Peripherals,Logitech,86678,108304,24.95,160,40,12,2022,Active,SUP006
+PRO067,Dell 24-inch Monitor,Accessory,Peripherals,Dell,58528,70839,21.03,163,40,12,2024,Active,SUP001
+PRO068,HP HD Webcam,Accessory,Peripherals,HP,54695,67949,24.23,124,31,12,2024,Active,SUP010
+PRO069,Logitech 24-inch Monitor,Accessory,Peripherals,Logitech,42606,51744,21.45,133,33,12,2024,Active,SUP006
+PRO070,Microsoft Mechanical Keyboard,Accessory,Peripherals,Microsoft,72000,91372,26.91,201,50,12,2023,Active,SUP013
+PRO071,Sony 65-inch OLED Smart TV,Smart TV,Home Entertainment,Sony,846101,984868,16.4,18,5,24,2023,Active,SUP004
+PRO072,LG 43-inch UHD Smart TV,Smart TV,Home Entertainment,LG,304511,352298,15.69,8,5,24,2025,Active,SUP008
+PRO073,Samsung 55-inch UHD Smart TV,Smart TV,Home Entertainment,Samsung,584572,735246,25.78,14,5,24,2025,Active,SUP007
+PRO074,LG 43-inch UHD Smart TV,Smart TV,Home Entertainment,LG,837926,1075812,28.39,8,5,24,2022,Active,SUP008
+PRO075,LG 43-inch UHD Smart TV,Smart TV,Home Entertainment,LG,879716,1072974,21.97,24,6,24,2023,Active,SUP008
+PRO076,Samsung 55-inch UHD Smart TV,Smart TV,Home Entertainment,Samsung,289816,362309,25.01,22,5,24,2024,Discontinued,SUP007
+PRO077,Hisense 65-inch OLED Smart TV,Smart TV,Home Entertainment,Hisense,904213,1097724,21.4,24,6,24,2025,Active,SUP008
+PRO078,Hisense 55-inch UHD Smart TV,Smart TV,Home Entertainment,Hisense,421782,538185,27.6,15,5,24,2024,Active,SUP008
+PRO079,Hisense 65-inch OLED Smart TV,Smart TV,Home Entertainment,Hisense,400867,487446,21.6,16,5,24,2024,Active,SUP008
+PRO080,Sony 55-inch UHD Smart TV,Smart TV,Home Entertainment,Sony,716390,838717,17.08,10,5,24,2023,Active,SUP004
+PRO081,LG 65-inch OLED Smart TV,Smart TV,Home Entertainment,LG,374345,453792,21.22,10,5,24,2024,Active,SUP008
+PRO082,Hisense 43-inch UHD Smart TV,Smart TV,Home Entertainment,Hisense,366881,443346,20.84,21,5,24,2022,Active,SUP008
+PRO083,Hisense 55-inch UHD Smart TV,Smart TV,Home Entertainment,Hisense,156182,186604,19.48,19,5,24,2025,Active,SUP008
+PRO084,Hisense 65-inch OLED Smart TV,Smart TV,Home Entertainment,Hisense,933826,1185940,27.0,25,6,24,2023,Active,SUP008
+PRO085,Sony 55-inch UHD Smart TV,Smart TV,Home Entertainment,Sony,659232,796568,20.83,8,5,24,2025,Active,SUP004
+PRO086,Hisense Microwave,Appliance,Home Appliances,Hisense,595069,765282,28.6,5,5,24,2022,Active,SUP008
+PRO087,Hisense Microwave,Appliance,Home Appliances,Hisense,519125,600909,15.75,10,5,24,2025,Active,SUP008
+PRO088,Hisense Air Fryer,Appliance,Home Appliances,Hisense,388894,463459,19.17,17,5,24,2025,Active,SUP008
+PRO089,LG Water Dispenser,Appliance,Home Appliances,LG,55324,71920,30.0,6,5,24,2024,Active,SUP008
+PRO090,LG Refrigerator,Appliance,Home Appliances,LG,67537,79687,17.99,12,5,24,2022,Active,SUP008
+PRO091,LG Microwave,Appliance,Home Appliances,LG,531564,656266,23.46,8,5,24,2023,Active,SUP008
+PRO092,Hisense Air Fryer,Appliance,Home Appliances,Hisense,210939,267189,26.67,8,5,24,2023,Discontinued,SUP008
+PRO093,LG Air Conditioner,Appliance,Home Appliances,LG,61925,76562,23.64,14,5,24,2025,Active,SUP008
+PRO094,Panasonic Microwave,Appliance,Home Appliances,Panasonic,114688,133644,16.53,12,5,24,2024,Active,SUP014
+PRO095,Panasonic Refrigerator,Appliance,Home Appliances,Panasonic,628423,755415,20.21,6,5,24,2025,Active,SUP014
+PRO096,LG Air Conditioner,Appliance,Home Appliances,LG,392806,501784,27.74,5,5,24,2025,Active,SUP008
+PRO097,Hisense Water Dispenser,Appliance,Home Appliances,Hisense,195422,229898,17.64,18,5,24,2024,Active,SUP008
+PRO098,Panasonic Water Dispenser,Appliance,Home Appliances,Panasonic,522455,665534,27.39,18,5,24,2024,Active,SUP014
+PRO099,LG Refrigerator,Appliance,Home Appliances,LG,327477,388577,18.66,19,5,24,2025,Active,SUP008
+PRO100,Panasonic Water Dispenser,Appliance,Home Appliances,Panasonic,387737,474646,22.41,5,5,24,2024,Active,SUP014
+PRO101,TP-Link Wi-Fi 6 Router,Router,Networking,TP-Link,64507,77476,20.1,58,14,12,2024,Active,SUP011
+PRO102,TP-Link Wi-Fi 6 Router,Router,Networking,TP-Link,29221,36760,25.8,55,13,12,2025,Active,SUP011
+PRO103,TP-Link Wi-Fi 6 Router,Router,Networking,TP-Link,80402,97867,21.72,87,21,12,2022,Active,SUP011
+PRO104,TP-Link Wi-Fi 6 Router,Router,Networking,TP-Link,71005,84917,19.59,56,14,12,2024,Active,SUP011
+PRO105,D-Link Wi-Fi 6 Router,Router,Networking,D-Link,73771,88497,19.96,95,23,12,2025,Active,SUP012
+PRO106,D-Link Wi-Fi 6 Router,Router,Networking,D-Link,48217,60666,25.82,40,10,12,2024,Active,SUP012
+PRO107,TP-Link Wi-Fi 6 Router,Router,Networking,TP-Link,43105,54346,26.08,52,13,12,2024,Active,SUP011
+PRO108,D-Link Wi-Fi 6 Router,Router,Networking,D-Link,31176,37237,19.44,49,12,12,2024,Active,SUP012
+PRO109,Microsoft Xbox Series X,Gaming Device,Gaming,Microsoft,305636,396148,29.61,17,5,12,2024,Active,SUP013
+PRO110,Logitech Gaming Keyboard,Gaming Device,Gaming,Logitech,125570,155218,23.61,15,5,12,2025,Active,SUP006
+PRO111,Microsoft Xbox Series X,Gaming Device,Gaming,Microsoft,71872,92798,29.12,31,7,12,2025,Active,SUP013
+PRO112,Logitech Gaming Keyboard,Gaming Device,Gaming,Logitech,533633,659865,23.66,19,5,12,2022,Active,SUP006
+PRO113,Logitech Gaming Mouse,Gaming Device,Gaming,Logitech,107318,125322,16.78,30,7,12,2025,Active,SUP006
+PRO114,Microsoft Xbox Series X,Gaming Device,Gaming,Microsoft,416855,536190,28.63,43,10,12,2024,Active,SUP013
+PRO115,Canon PIXMA Printer,Printer,Office Equipment,Canon,194062,224924,15.9,29,7,24,2022,Discontinued,SUP009
+PRO116,HP EcoTank Printer,Printer,Office Equipment,HP,100318,125303,24.91,18,5,24,2023,Active,SUP010
+PRO117,Epson LaserJet Printer,Printer,Office Equipment,Epson,86034,104211,21.13,10,5,24,2025,Active,SUP009
+PRO118,HP PIXMA Printer,Printer,Office Equipment,HP,230324,289159,25.54,19,5,24,2025,Active,SUP010
+PRO119,HP PIXMA Printer,Printer,Office Equipment,HP,251524,312835,24.38,35,8,24,2023,Active,SUP010
+PRO120,Epson LaserJet Printer,Printer,Office Equipment,Epson,214773,276254,28.63,14,5,24,2023,Active,SUP009

@@ -1,0 +1,21 @@
+SalesRepID,FirstName,LastName,FullName,Branch,State,HireDate,JobTitle,Phone,Email,TargetSales,CommissionRate,Status
+SR001,Emeka,John,Emeka John,Lagos,Lagos,2021-10-24,Sales Executive,+2348200000001,emeka.john1@novamart.ng,18000000,0.02,Active
+SR002,Fatima,Sanni,Fatima Sanni,Abuja,FCT,2021-02-16,Sales Executive,+2348200000002,fatima.sanni2@novamart.ng,15000000,0.02,Active
+SR003,Chioma,Lawal,Chioma Lawal,Ibadan,Oyo,2022-03-24,Sales Executive,+2348200000003,chioma.lawal3@novamart.ng,15000000,0.02,Active
+SR004,Seyi,Ali,Seyi Ali,Port Harcourt,Rivers,2024-06-03,Senior Sales Executive,+2348200000004,seyi.ali4@novamart.ng,18000000,0.03,Active
+SR005,Ifeoma,Okafor,Ifeoma Okafor,Kano,Kano,2023-11-28,Sales Executive,+2348200000005,ifeoma.okafor5@novamart.ng,15000000,0.02,Active
+SR006,Tunde,Usman,Tunde Usman,Enugu,Enugu,2022-04-15,Senior Sales Executive,+2348200000006,tunde.usman6@novamart.ng,10000000,0.03,Active
+SR007,Ruth,Sanni,Ruth Sanni,Benin City,Edo,2023-05-27,Branch Sales Officer,+2348200000007,ruth.sanni7@novamart.ng,10000000,0.025,Active
+SR008,Abdul,Aina,Abdul Aina,Abeokuta,Ogun,2024-08-24,Senior Sales Executive,+2348200000008,abdul.aina8@novamart.ng,18000000,0.03,Active
+SR009,Abdul,John,Abdul John,Ilorin,Kwara,2024-04-15,Senior Sales Executive,+2348200000009,abdul.john9@novamart.ng,18000000,0.03,Active
+SR010,Fatima,Nwosu,Fatima Nwosu,Jos,Plateau,2024-04-09,Sales Executive,+2348200000010,fatima.nwosu10@novamart.ng,18000000,0.02,Active
+SR011,Seyi,Nwosu,Seyi Nwosu,Lagos,Lagos,2023-12-26,Sales Executive,+2348200000011,seyi.nwosu11@novamart.ng,10000000,0.02,Active
+SR012,Ifeoma,Eze,Ifeoma Eze,Abuja,FCT,2023-10-10,Branch Sales Officer,+2348200000012,ifeoma.eze12@novamart.ng,15000000,0.025,Active
+SR013,Seyi,Eze,Seyi Eze,Ibadan,Oyo,2021-01-09,Sales Executive,+2348200000013,seyi.eze13@novamart.ng,12000000,0.02,Active
+SR014,Mercy,Ojo,Mercy Ojo,Port Harcourt,Rivers,2021-11-03,Sales Executive,+2348200000014,mercy.ojo14@novamart.ng,15000000,0.02,Active
+SR015,Kelechi,Ojo,Kelechi Ojo,Kano,Kano,2023-02-02,Sales Executive,+2348200000015,kelechi.ojo15@novamart.ng,8000000,0.02,Active
+SR016,Aisha,Garba,Aisha Garba,Enugu,Enugu,2021-12-01,Senior Sales Executive,+2348200000016,aisha.garba16@novamart.ng,8000000,0.03,Active
+SR017,Ifeoma,Adeyemi,Ifeoma Adeyemi,Benin City,Edo,2022-12-14,Sales Executive,+2348200000017,ifeoma.adeyemi17@novamart.ng,8000000,0.02,Active
+SR018,Abdul,Ali,Abdul Ali,Abeokuta,Ogun,2023-08-10,Branch Sales Officer,+2348200000018,abdul.ali18@novamart.ng,8000000,0.025,Active
+SR019,Grace,Peters,Grace Peters,Ilorin,Kwara,2023-12-01,Senior Sales Executive,+2348200000019,grace.peters19@novamart.ng,18000000,0.03,Inactive
+SR020,Fatima,Eze,Fatima Eze,Jos,Plateau,2024-07-24,Sales Executive,+2348200000020,fatima.eze20@novamart.ng,10000000,0.02,Active

@@ -1,0 +1,31 @@
+SupplierID,SupplierName,ContactPerson,Phone,Email,City,State,SupplierType,PartnershipYear,Status
+SUP001,TechHub Distributors Ltd,Chinedu Okafor,+2348031000001,sales@techhub.ng,Lagos,Lagos,Distributor,2018,Active
+SUP002,Prime Electronics Nigeria,Aisha Bello,+2348031000002,info@primeelectronics.ng,Abuja,FCT,Distributor,2019,Active
+SUP003,Digital World Supplies,Tunde Adebayo,+2348031000003,contact@digitalworld.ng,Ibadan,Oyo,Wholesaler,2020,Active
+SUP004,Smart Devices Africa,Kelechi Nwosu,+2348031000004,sales@smartdevices.ng,Port Harcourt,Rivers,Distributor,2017,Active
+SUP005,Elite Gadgets Ltd,Musa Ibrahim,+2348031000005,support@elitegadgets.ng,Kano,Kano,Wholesaler,2018,Active
+SUP006,MicroTech Solutions,Ifeoma Eze,+2348031000006,info@microtech.ng,Enugu,Enugu,Distributor,2021,Active
+SUP007,Samsung Authorized Distribution,David Kim,+2348031000007,partners@samsungdist.ng,Lagos,Lagos,Manufacturer,2016,Active
+SUP008,LG Home Electronics,Grace Lee,+2348031000008,partners@lgdist.ng,Lagos,Lagos,Manufacturer,2016,Active
+SUP009,Canon Office Systems,John Okeke,+2348031000009,sales@canonoffice.ng,Abuja,FCT,Manufacturer,2019,Active
+SUP010,HP Business Solutions,Ngozi Obi,+2348031000010,enterprise@hpbiz.ng,Lagos,Lagos,Manufacturer,2017,Active
+SUP011,Nova Supplier 11,Contact 11,+2348031000011,supplier11@novamart.ng,Benin City,Edo,Distributor,2016,Active
+SUP012,Nova Supplier 12,Contact 12,+2348031000012,supplier12@novamart.ng,Abeokuta,Ogun,Wholesaler,2017,Active
+SUP013,Nova Supplier 13,Contact 13,+2348031000013,supplier13@novamart.ng,Ilorin,Kwara,Manufacturer,2018,Active
+SUP014,Nova Supplier 14,Contact 14,+2348031000014,supplier14@novamart.ng,Jos,Plateau,Distributor,2019,Active
+SUP015,Nova Supplier 15,Contact 15,+2348031000015,supplier15@novamart.ng,Lagos,Lagos,Wholesaler,2020,Active
+SUP016,Nova Supplier 16,Contact 16,+2348031000016,supplier16@novamart.ng,Abuja,FCT,Manufacturer,2021,Active
+SUP017,Nova Supplier 17,Contact 17,+2348031000017,supplier17@novamart.ng,Ibadan,Oyo,Distributor,2022,Active
+SUP018,Nova Supplier 18,Contact 18,+2348031000018,supplier18@novamart.ng,Enugu,Enugu,Wholesaler,2023,Active
+SUP019,Nova Supplier 19,Contact 19,+2348031000019,supplier19@novamart.ng,Port Harcourt,Rivers,Manufacturer,2024,Active
+SUP020,Nova Supplier 20,Contact 20,+2348031000020,supplier20@novamart.ng,Kano,Kano,Distributor,2025,Active
+SUP021,Nova Supplier 21,Contact 21,+2348031000021,supplier21@novamart.ng,Benin City,Edo,Wholesaler,2016,Active
+SUP022,Nova Supplier 22,Contact 22,+2348031000022,supplier22@novamart.ng,Abeokuta,Ogun,Manufacturer,2017,Active
+SUP023,Nova Supplier 23,Contact 23,+2348031000023,supplier23@novamart.ng,Ilorin,Kwara,Distributor,2018,Active
+SUP024,Nova Supplier 24,Contact 24,+2348031000024,supplier24@novamart.ng,Jos,Plateau,Wholesaler,2019,Active
+SUP025,Nova Supplier 25,Contact 25,+2348031000025,supplier25@novamart.ng,Lagos,Lagos,Manufacturer,2020,Active
+SUP026,Nova Supplier 26,Contact 26,+2348031000026,supplier26@novamart.ng,Abuja,FCT,Distributor,2021,Active
+SUP027,Nova Supplier 27,Contact 27,+2348031000027,supplier27@novamart.ng,Ibadan,Oyo,Wholesaler,2022,Active
+SUP028,Nova Supplier 28,Contact 28,+2348031000028,supplier28@novamart.ng,Enugu,Enugu,Manufacturer,2023,Active
+SUP029,Nova Supplier 29,Contact 29,+2348031000029,supplier29@novamart.ng,Port Harcourt,Rivers,Distributor,2024,Active
+SUP030,Nova Supplier 30,Contact 30,+2348031000030,supplier30@novamart.ng,Kano,Kano,Wholesaler,2025,Inactive

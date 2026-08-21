@@ -1,0 +1,501 @@
+CustomerID,FirstName,LastName,Gender,Age,City,State,Email,Phone,Segment,PreferredPaymentMethod,RegistrationDate,Status
+CUS001,Seyi,Bello,Male,35,Enugu,Enugu,seyi.bello1@gmail.com,+2348100000001,Silver,Bank Transfer,2022-01-13,Active
+CUS002,Samuel,Nwosu,Male,39,Abuja,FCT,samuel.nwosu2@gmail.com,+2348100000002,Regular,Cash,2023-03-01,Active
+CUS003,Blessing,Adeyemi,Female,46,Abuja,FCT,blessing.adeyemi3@gmail.com,+2348100000003,Gold,Card,2022-01-03,Active
+CUS004,Oluwaseun,Aina,Male,34,Ibadan,Oyo,oluwaseun.aina4@gmail.com,+2348100000004,Regular,Bank Transfer,2025-01-25,Active
+CUS005,Kemi,Ali,Female,54,Port Harcourt,Rivers,kemi.ali5@gmail.com,+2348100000005,Platinum,Mobile Money,2024-01-13,Active
+CUS006,Hauwa,Aina,Female,20,Abuja,FCT,hauwa.aina6@gmail.com,+2348100000006,Regular,Mobile Money,2023-12-27,Active
+CUS007,Abdul,Okeke,Male,22,Ibadan,Oyo,abdul.okeke7@gmail.com,+2348100000007,Platinum,Bank Transfer,2025-07-19,Active
+CUS008,Kelechi,Adeyemi,Male,32,Abeokuta,Ogun,kelechi.adeyemi8@gmail.com,+2348100000008,Gold,Cash,2025-09-17,Active
+CUS009,Ngozi,Ani,Female,29,Ibadan,Oyo,ngozi.ani9@gmail.com,+2348100000009,Regular,Mobile Money,2023-09-15,Active
+CUS010,Daniel,Ibrahim,Male,40,Lagos,Lagos,daniel.ibrahim10@gmail.com,+2348100000010,Regular,Cash,2024-07-21,Active
+CUS011,Femi,Sanni,Male,23,Kano,Kano,femi.sanni11@gmail.com,+2348100000011,Silver,Mobile Money,2025-01-26,Active
+CUS012,Aisha,Okeke,Female,48,Lagos,Lagos,aisha.okeke12@gmail.com,+2348100000012,Regular,Bank Transfer,2022-09-11,Active
+CUS013,Sodiq,Bello,Male,61,Kano,Kano,sodiq.bello13@gmail.com,+2348100000013,Regular,Cash,2023-06-22,Active
+CUS014,Femi,Usman,Male,27,Ibadan,Oyo,femi.usman14@gmail.com,+2348100000014,Regular,Bank Transfer,2024-07-12,Active
+CUS015,Kabiru,Usman,Male,65,Abuja,FCT,kabiru.usman15@gmail.com,+2348100000015,Regular,Bank Transfer,2023-08-22,Active
+CUS016,Zainab,Aina,Female,19,Enugu,Enugu,zainab.aina16@gmail.com,+2348100000016,Silver,Card,2023-09-11,Active
+CUS017,Joseph,Sanni,Male,54,Lagos,Lagos,joseph.sanni17@gmail.com,+2348100000017,Silver,Card,2024-02-09,Active
+CUS018,Bolanle,Usman,Female,50,Lagos,Lagos,bolanle.usman18@gmail.com,+2348100000018,Regular,Cash,2022-04-17,Active
+CUS019,Emmanuel,Ali,Male,39,Abuja,FCT,emmanuel.ali19@gmail.com,+2348100000019,Silver,Mobile Money,2023-09-05,Active
+CUS020,Seyi,Peters,Male,39,Benin City,Edo,seyi.peters20@gmail.com,+2348100000020,Silver,Card,2025-04-27,Active
+CUS021,Victor,Ali,Male,39,Jos,Plateau,victor.ali21@gmail.com,+2348100000021,Regular,Mobile Money,2022-12-02,Active
+CUS022,Grace,Sanni,Female,46,Lagos,Lagos,grace.sanni22@gmail.com,+2348100000022,Regular,Mobile Money,2024-04-27,Inactive
+CUS023,Sodiq,Usman,Male,29,Ibadan,Oyo,sodiq.usman23@gmail.com,+2348100000023,Regular,Cash,2025-06-03,Active
+CUS024,Chioma,Usman,Female,42,Lagos,Lagos,chioma.usman24@gmail.com,+2348100000024,Silver,Bank Transfer,2024-02-15,Active
+CUS025,Bolanle,Pam,Female,40,Ibadan,Oyo,bolanle.pam25@gmail.com,+2348100000025,Silver,Bank Transfer,2023-12-15,Active
+CUS026,Samuel,Ogunleye,Male,60,Lagos,Lagos,samuel.ogunleye26@gmail.com,+2348100000026,Silver,Cash,2025-12-05,Active
+CUS027,Abdul,Sanni,Male,32,Abeokuta,Ogun,abdul.sanni27@gmail.com,+2348100000027,Silver,Bank Transfer,2022-08-17,Active
+CUS028,Abdul,Usman,Male,22,Lagos,Lagos,abdul.usman28@gmail.com,+2348100000028,Regular,Bank Transfer,2024-05-06,Active
+CUS029,Ayodele,Eze,Male,35,Lagos,Lagos,ayodele.eze29@gmail.com,+2348100000029,Regular,Bank Transfer,2023-12-17,Active
+CUS030,Ngozi,Lawal,Female,24,Ibadan,Oyo,ngozi.lawal30@gmail.com,+2348100000030,Silver,Bank Transfer,2025-10-18,Active
+CUS031,Emeka,Aina,Male,46,Enugu,Enugu,emeka.aina31@gmail.com,+2348100000031,Regular,Mobile Money,2022-01-19,Active
+CUS032,Ayodele,Nwosu,Male,31,Lagos,Lagos,ayodele.nwosu32@gmail.com,+2348100000032,Regular,Cash,2023-01-08,Active
+CUS033,Adebayo,Aina,Male,53,Port Harcourt,Rivers,adebayo.aina33@gmail.com,+2348100000033,Gold,Mobile Money,2022-01-08,Active
+CUS034,Oluwaseun,Ogunleye,Male,59,Abuja,FCT,oluwaseun.ogunleye34@gmail.com,+2348100000034,Regular,Bank Transfer,2024-04-17,Active
+CUS035,Ngozi,Aina,Female,60,Lagos,Lagos,ngozi.aina35@gmail.com,+2348100000035,Regular,Mobile Money,2025-07-18,Active
+CUS036,Chioma,Lawal,Female,64,Lagos,Lagos,chioma.lawal36@gmail.com,+2348100000036,Regular,Bank Transfer,2022-03-04,Active
+CUS037,Daniel,John,Male,41,Abuja,FCT,daniel.john37@gmail.com,+2348100000037,Regular,Cash,2023-07-02,Active
+CUS038,Blessing,Ibrahim,Female,29,Ilorin,Kwara,blessing.ibrahim38@gmail.com,+2348100000038,Regular,Cash,2025-03-16,Active
+CUS039,Abdul,Okafor,Male,32,Lagos,Lagos,abdul.okafor39@gmail.com,+2348100000039,Gold,Mobile Money,2025-07-07,Active
+CUS040,Ibrahim,Pam,Male,26,Kano,Kano,ibrahim.pam40@gmail.com,+2348100000040,Regular,Card,2022-06-15,Active
+CUS041,Grace,Nwosu,Female,18,Lagos,Lagos,grace.nwosu41@gmail.com,+2348100000041,Regular,Bank Transfer,2024-06-22,Active
+CUS042,Chinedu,Ani,Male,33,Lagos,Lagos,chinedu.ani42@gmail.com,+2348100000042,Silver,Cash,2024-04-05,Active
+CUS043,Omotola,Ani,Female,58,Abuja,FCT,omotola.ani43@gmail.com,+2348100000043,Silver,Bank Transfer,2023-07-02,Active
+CUS044,Kelechi,John,Male,59,Kano,Kano,kelechi.john44@gmail.com,+2348100000044,Gold,Card,2024-02-13,Active
+CUS045,Esther,Ali,Female,52,Ilorin,Kwara,esther.ali45@gmail.com,+2348100000045,Gold,Cash,2023-07-21,Active
+CUS046,Omotola,Garba,Female,53,Abuja,FCT,omotola.garba46@gmail.com,+2348100000046,Regular,Cash,2023-07-01,Active
+CUS047,David,Sanni,Male,26,Lagos,Lagos,david.sanni47@gmail.com,+2348100000047,Regular,Bank Transfer,2022-05-04,Active
+CUS048,Ifeoma,Nwosu,Female,23,Lagos,Lagos,ifeoma.nwosu48@gmail.com,+2348100000048,Silver,Cash,2024-09-26,Active
+CUS049,Abdul,Lawal,Male,58,Enugu,Enugu,abdul.lawal49@gmail.com,+2348100000049,Regular,Cash,2024-08-08,Active
+CUS050,Daniel,Usman,Male,40,Enugu,Enugu,daniel.usman50@gmail.com,+2348100000050,Regular,Mobile Money,2023-03-13,Active
+CUS051,Sodiq,Nwosu,Male,23,Enugu,Enugu,sodiq.nwosu51@gmail.com,+2348100000051,Regular,Card,2023-09-09,Active
+CUS052,Zainab,Bello,Female,25,Benin City,Edo,zainab.bello52@gmail.com,+2348100000052,Regular,Card,2025-05-19,Active
+CUS053,Mary,Ani,Female,39,Enugu,Enugu,mary.ani53@gmail.com,+2348100000053,Regular,Bank Transfer,2022-11-05,Active
+CUS054,Sodiq,Ibrahim,Male,45,Ibadan,Oyo,sodiq.ibrahim54@gmail.com,+2348100000054,Gold,Cash,2022-03-06,Active
+CUS055,Daniel,Peters,Male,43,Jos,Plateau,daniel.peters55@gmail.com,+2348100000055,Regular,Cash,2025-12-18,Active
+CUS056,Emmanuel,Pam,Male,52,Lagos,Lagos,emmanuel.pam56@gmail.com,+2348100000056,Regular,Cash,2024-12-01,Active
+CUS057,Chinedu,Aina,Male,48,Enugu,Enugu,chinedu.aina57@gmail.com,+2348100000057,Regular,Mobile Money,2025-06-22,Inactive
+CUS058,Emmanuel,Okafor,Male,60,Lagos,Lagos,emmanuel.okafor58@gmail.com,+2348100000058,Silver,Bank Transfer,2023-12-22,Active
+CUS059,Bolanle,Lawal,Female,29,Abuja,FCT,bolanle.lawal59@gmail.com,+2348100000059,Silver,Card,2022-01-19,Active
+CUS060,Daniel,Adebayo,Male,53,Port Harcourt,Rivers,daniel.adebayo60@gmail.com,+2348100000060,Regular,Mobile Money,2025-01-12,Active
+CUS061,Amaka,Peters,Female,59,Jos,Plateau,amaka.peters61@gmail.com,+2348100000061,Regular,Bank Transfer,2024-04-06,Active
+CUS062,Ayodele,Sanni,Male,60,Kano,Kano,ayodele.sanni62@gmail.com,+2348100000062,Silver,Cash,2023-02-22,Active
+CUS063,Mercy,John,Female,24,Port Harcourt,Rivers,mercy.john63@gmail.com,+2348100000063,Regular,Mobile Money,2025-09-25,Active
+CUS064,Bolanle,Okeke,Female,29,Port Harcourt,Rivers,bolanle.okeke64@gmail.com,+2348100000064,Gold,Cash,2023-02-24,Active
+CUS065,Kelechi,Okafor,Male,59,Lagos,Lagos,kelechi.okafor65@gmail.com,+2348100000065,Regular,Card,2023-11-22,Active
+CUS066,Femi,Eze,Male,49,Enugu,Enugu,femi.eze66@gmail.com,+2348100000066,Regular,Bank Transfer,2022-08-05,Inactive
+CUS067,Ngozi,Bello,Female,48,Abuja,FCT,ngozi.bello67@gmail.com,+2348100000067,Silver,Mobile Money,2025-06-02,Active
+CUS068,Abdul,Pam,Male,25,Ibadan,Oyo,abdul.pam68@gmail.com,+2348100000068,Regular,Bank Transfer,2022-12-12,Active
+CUS069,Deborah,Okeke,Female,20,Port Harcourt,Rivers,deborah.okeke69@gmail.com,+2348100000069,Regular,Card,2023-03-21,Active
+CUS070,Omotola,Adeyemi,Female,59,Abuja,FCT,omotola.adeyemi70@gmail.com,+2348100000070,Silver,Bank Transfer,2023-05-12,Active
+CUS071,Kemi,Okafor,Female,26,Lagos,Lagos,kemi.okafor71@gmail.com,+2348100000071,Silver,Mobile Money,2022-10-16,Active
+CUS072,Blessing,Ibrahim,Female,32,Lagos,Lagos,blessing.ibrahim72@gmail.com,+2348100000072,Gold,Mobile Money,2024-12-14,Active
+CUS073,Kelechi,John,Male,24,Ilorin,Kwara,kelechi.john73@gmail.com,+2348100000073,Gold,Cash,2023-05-03,Active
+CUS074,Emmanuel,Bello,Male,59,Abuja,FCT,emmanuel.bello74@gmail.com,+2348100000074,Regular,Cash,2025-12-14,Active
+CUS075,Oluwaseun,John,Male,64,Abuja,FCT,oluwaseun.john75@gmail.com,+2348100000075,Regular,Bank Transfer,2024-06-12,Active
+CUS076,Adebayo,Pam,Male,38,Abuja,FCT,adebayo.pam76@gmail.com,+2348100000076,Regular,Bank Transfer,2022-04-26,Active
+CUS077,Abdul,Ali,Male,32,Ibadan,Oyo,abdul.ali77@gmail.com,+2348100000077,Regular,Card,2022-10-16,Active
+CUS078,Amaka,Adebayo,Female,28,Benin City,Edo,amaka.adebayo78@gmail.com,+2348100000078,Regular,Mobile Money,2023-08-16,Active
+CUS079,Bolanle,Aina,Female,36,Kano,Kano,bolanle.aina79@gmail.com,+2348100000079,Regular,Cash,2022-11-13,Active
+CUS080,Ruth,Peters,Female,51,Ibadan,Oyo,ruth.peters80@gmail.com,+2348100000080,Regular,Card,2023-04-25,Active
+CUS081,Mary,Ojo,Female,36,Port Harcourt,Rivers,mary.ojo81@gmail.com,+2348100000081,Gold,Mobile Money,2023-09-08,Active
+CUS082,Kabiru,Usman,Male,41,Ibadan,Oyo,kabiru.usman82@gmail.com,+2348100000082,Regular,Card,2025-12-21,Active
+CUS083,Tunde,Lawal,Male,28,Abuja,FCT,tunde.lawal83@gmail.com,+2348100000083,Regular,Card,2025-05-20,Active
+CUS084,Oluwaseun,Ibrahim,Male,19,Port Harcourt,Rivers,oluwaseun.ibrahim84@gmail.com,+2348100000084,Regular,Card,2023-03-25,Active
+CUS085,Musa,Okafor,Male,23,Abuja,FCT,musa.okafor85@gmail.com,+2348100000085,Regular,Cash,2023-08-14,Inactive
+CUS086,Victor,Adebayo,Male,44,Port Harcourt,Rivers,victor.adebayo86@gmail.com,+2348100000086,Regular,Card,2023-04-22,Active
+CUS087,Kabiru,Sanni,Male,19,Kano,Kano,kabiru.sanni87@gmail.com,+2348100000087,Regular,Card,2025-05-14,Active
+CUS088,David,Adebayo,Male,61,Abuja,FCT,david.adebayo88@gmail.com,+2348100000088,Gold,Card,2025-09-05,Active
+CUS089,Musa,Garba,Male,25,Abeokuta,Ogun,musa.garba89@gmail.com,+2348100000089,Regular,Cash,2022-05-21,Active
+CUS090,Ngozi,Ani,Female,32,Port Harcourt,Rivers,ngozi.ani90@gmail.com,+2348100000090,Regular,Bank Transfer,2025-12-28,Active
+CUS091,Bolanle,Adebayo,Female,57,Jos,Plateau,bolanle.adebayo91@gmail.com,+2348100000091,Gold,Cash,2023-04-01,Active
+CUS092,Joy,Bello,Female,38,Lagos,Lagos,joy.bello92@gmail.com,+2348100000092,Regular,Cash,2022-07-18,Active
+CUS093,Tunde,Ojo,Male,46,Abuja,FCT,tunde.ojo93@gmail.com,+2348100000093,Gold,Mobile Money,2025-05-04,Active
+CUS094,Ifeoma,Ogunleye,Female,40,Lagos,Lagos,ifeoma.ogunleye94@gmail.com,+2348100000094,Silver,Cash,2024-05-19,Active
+CUS095,Ifeoma,Pam,Female,27,Abuja,FCT,ifeoma.pam95@gmail.com,+2348100000095,Gold,Bank Transfer,2023-04-06,Active
+CUS096,Mercy,Ani,Female,45,Lagos,Lagos,mercy.ani96@gmail.com,+2348100000096,Regular,Bank Transfer,2024-07-06,Active
+CUS097,Amaka,Aina,Female,18,Kano,Kano,amaka.aina97@gmail.com,+2348100000097,Gold,Card,2023-08-08,Active
+CUS098,Funke,Ali,Female,63,Abuja,FCT,funke.ali98@gmail.com,+2348100000098,Regular,Mobile Money,2022-11-15,Inactive
+CUS099,Musa,Adeyemi,Male,35,Lagos,Lagos,musa.adeyemi99@gmail.com,+2348100000099,Gold,Card,2023-08-06,Active
+CUS100,Samuel,Ojo,Male,53,Enugu,Enugu,samuel.ojo100@gmail.com,+2348100000100,Silver,Mobile Money,2025-01-13,Active
+CUS101,Mercy,Bello,Female,46,Lagos,Lagos,mercy.bello101@gmail.com,+2348100000101,Regular,Mobile Money,2024-02-12,Active
+CUS102,Amaka,Garba,Female,21,Port Harcourt,Rivers,amaka.garba102@gmail.com,+2348100000102,Platinum,Mobile Money,2023-03-15,Active
+CUS103,Chioma,Ali,Female,41,Benin City,Edo,chioma.ali103@gmail.com,+2348100000103,Regular,Cash,2023-04-08,Active
+CUS104,Amaka,Garba,Female,30,Abuja,FCT,amaka.garba104@gmail.com,+2348100000104,Silver,Card,2024-07-26,Active
+CUS105,David,Okafor,Male,51,Port Harcourt,Rivers,david.okafor105@gmail.com,+2348100000105,Regular,Bank Transfer,2023-11-28,Active
+CUS106,Mercy,Ani,Female,38,Enugu,Enugu,mercy.ani106@gmail.com,+2348100000106,Regular,Bank Transfer,2023-04-05,Active
+CUS107,Esther,Ali,Female,21,Abuja,FCT,esther.ali107@gmail.com,+2348100000107,Platinum,Cash,2022-06-20,Active
+CUS108,Grace,Ogunleye,Female,30,Lagos,Lagos,grace.ogunleye108@gmail.com,+2348100000108,Regular,Mobile Money,2024-11-14,Active
+CUS109,Kemi,Peters,Female,48,Abuja,FCT,kemi.peters109@gmail.com,+2348100000109,Regular,Bank Transfer,2024-11-16,Active
+CUS110,Hauwa,Bello,Female,27,Port Harcourt,Rivers,hauwa.bello110@gmail.com,+2348100000110,Gold,Bank Transfer,2025-12-02,Active
+CUS111,Kemi,Ibrahim,Female,31,Abuja,FCT,kemi.ibrahim111@gmail.com,+2348100000111,Silver,Card,2023-03-28,Active
+CUS112,Mercy,Peters,Female,42,Ibadan,Oyo,mercy.peters112@gmail.com,+2348100000112,Gold,Card,2023-01-03,Active
+CUS113,Musa,Okafor,Male,39,Benin City,Edo,musa.okafor113@gmail.com,+2348100000113,Regular,Mobile Money,2024-04-22,Active
+CUS114,Joseph,Lawal,Male,42,Port Harcourt,Rivers,joseph.lawal114@gmail.com,+2348100000114,Regular,Bank Transfer,2023-10-14,Active
+CUS115,Samuel,Aina,Male,47,Port Harcourt,Rivers,samuel.aina115@gmail.com,+2348100000115,Regular,Cash,2022-01-16,Active
+CUS116,Ibrahim,Nwosu,Male,30,Abuja,FCT,ibrahim.nwosu116@gmail.com,+2348100000116,Platinum,Card,2024-04-07,Active
+CUS117,Emmanuel,John,Male,39,Lagos,Lagos,emmanuel.john117@gmail.com,+2348100000117,Gold,Mobile Money,2023-12-06,Active
+CUS118,Ibrahim,Aina,Male,22,Lagos,Lagos,ibrahim.aina118@gmail.com,+2348100000118,Regular,Mobile Money,2024-11-03,Active
+CUS119,Joseph,Nwosu,Male,33,Lagos,Lagos,joseph.nwosu119@gmail.com,+2348100000119,Regular,Bank Transfer,2023-02-28,Active
+CUS120,Adebayo,Ojo,Male,41,Abuja,FCT,adebayo.ojo120@gmail.com,+2348100000120,Regular,Cash,2022-04-17,Active
+CUS121,Blessing,John,Female,51,Port Harcourt,Rivers,blessing.john121@gmail.com,+2348100000121,Regular,Mobile Money,2025-04-12,Active
+CUS122,Joseph,Aina,Male,22,Ibadan,Oyo,joseph.aina122@gmail.com,+2348100000122,Silver,Mobile Money,2022-02-04,Active
+CUS123,Joseph,Ibrahim,Male,64,Jos,Plateau,joseph.ibrahim123@gmail.com,+2348100000123,Silver,Card,2023-03-23,Active
+CUS124,Bolanle,Bello,Female,46,Ilorin,Kwara,bolanle.bello124@gmail.com,+2348100000124,Silver,Cash,2022-02-09,Active
+CUS125,Grace,Ogunleye,Female,60,Lagos,Lagos,grace.ogunleye125@gmail.com,+2348100000125,Silver,Bank Transfer,2023-10-18,Active
+CUS126,Joy,Peters,Female,28,Ilorin,Kwara,joy.peters126@gmail.com,+2348100000126,Silver,Mobile Money,2023-04-26,Active
+CUS127,Ayodele,Adebayo,Male,33,Abuja,FCT,ayodele.adebayo127@gmail.com,+2348100000127,Silver,Bank Transfer,2025-05-11,Active
+CUS128,Femi,Ogunleye,Male,26,Abuja,FCT,femi.ogunleye128@gmail.com,+2348100000128,Regular,Mobile Money,2023-08-14,Active
+CUS129,Seyi,Nwosu,Male,23,Enugu,Enugu,seyi.nwosu129@gmail.com,+2348100000129,Silver,Bank Transfer,2022-10-27,Active
+CUS130,Omotola,Lawal,Female,54,Lagos,Lagos,omotola.lawal130@gmail.com,+2348100000130,Regular,Mobile Money,2022-09-13,Active
+CUS131,Seyi,Adebayo,Male,60,Abuja,FCT,seyi.adebayo131@gmail.com,+2348100000131,Regular,Card,2023-08-03,Active
+CUS132,Femi,Lawal,Male,29,Lagos,Lagos,femi.lawal132@gmail.com,+2348100000132,Regular,Card,2024-02-13,Active
+CUS133,Fatima,Adeyemi,Female,57,Abuja,FCT,fatima.adeyemi133@gmail.com,+2348100000133,Regular,Mobile Money,2022-12-08,Active
+CUS134,Zainab,Lawal,Female,21,Enugu,Enugu,zainab.lawal134@gmail.com,+2348100000134,Regular,Cash,2023-08-08,Active
+CUS135,Sodiq,Peters,Male,47,Lagos,Lagos,sodiq.peters135@gmail.com,+2348100000135,Silver,Card,2023-01-27,Active
+CUS136,Joseph,Ani,Male,51,Abeokuta,Ogun,joseph.ani136@gmail.com,+2348100000136,Regular,Mobile Money,2022-01-03,Active
+CUS137,Fatima,Aina,Female,24,Benin City,Edo,fatima.aina137@gmail.com,+2348100000137,Regular,Card,2022-12-20,Active
+CUS138,Mary,Okeke,Female,54,Kano,Kano,mary.okeke138@gmail.com,+2348100000138,Regular,Card,2022-09-06,Active
+CUS139,Ayodele,Adeyemi,Male,26,Abuja,FCT,ayodele.adeyemi139@gmail.com,+2348100000139,Silver,Mobile Money,2024-10-16,Active
+CUS140,Ibrahim,Adebayo,Male,48,Enugu,Enugu,ibrahim.adebayo140@gmail.com,+2348100000140,Regular,Cash,2024-02-07,Active
+CUS141,Omotola,Okafor,Female,63,Enugu,Enugu,omotola.okafor141@gmail.com,+2348100000141,Regular,Mobile Money,2025-08-08,Active
+CUS142,Ifeoma,Ogunleye,Female,30,Port Harcourt,Rivers,ifeoma.ogunleye142@gmail.com,+2348100000142,Platinum,Card,2022-04-17,Active
+CUS143,Zainab,Eze,Female,18,Port Harcourt,Rivers,zainab.eze143@gmail.com,+2348100000143,Regular,Cash,2024-09-09,Active
+CUS144,Omotola,Peters,Female,54,Benin City,Edo,omotola.peters144@gmail.com,+2348100000144,Silver,Mobile Money,2024-08-25,Active
+CUS145,Emmanuel,Aina,Male,41,Port Harcourt,Rivers,emmanuel.aina145@gmail.com,+2348100000145,Gold,Cash,2023-12-02,Active
+CUS146,Victor,Ogunleye,Male,60,Lagos,Lagos,victor.ogunleye146@gmail.com,+2348100000146,Regular,Card,2024-10-25,Active
+CUS147,Femi,Garba,Male,53,Jos,Plateau,femi.garba147@gmail.com,+2348100000147,Regular,Mobile Money,2022-05-10,Active
+CUS148,Joseph,Okafor,Male,23,Abuja,FCT,joseph.okafor148@gmail.com,+2348100000148,Regular,Cash,2024-02-18,Active
+CUS149,Hauwa,Okafor,Female,34,Lagos,Lagos,hauwa.okafor149@gmail.com,+2348100000149,Regular,Card,2024-09-14,Active
+CUS150,Kabiru,Pam,Male,33,Jos,Plateau,kabiru.pam150@gmail.com,+2348100000150,Regular,Mobile Money,2022-03-09,Active
+CUS151,Zainab,John,Female,30,Kano,Kano,zainab.john151@gmail.com,+2348100000151,Regular,Bank Transfer,2025-03-21,Active
+CUS152,Mary,Okafor,Female,61,Lagos,Lagos,mary.okafor152@gmail.com,+2348100000152,Regular,Bank Transfer,2023-06-09,Active
+CUS153,Ayodele,Lawal,Male,53,Kano,Kano,ayodele.lawal153@gmail.com,+2348100000153,Silver,Bank Transfer,2023-06-22,Active
+CUS154,Ifeoma,Garba,Female,21,Ibadan,Oyo,ifeoma.garba154@gmail.com,+2348100000154,Regular,Bank Transfer,2022-07-18,Active
+CUS155,Blessing,Ojo,Female,25,Abuja,FCT,blessing.ojo155@gmail.com,+2348100000155,Regular,Bank Transfer,2023-08-12,Active
+CUS156,Kelechi,Bello,Male,60,Abuja,FCT,kelechi.bello156@gmail.com,+2348100000156,Regular,Card,2025-01-23,Active
+CUS157,Chinedu,Ibrahim,Male,29,Ibadan,Oyo,chinedu.ibrahim157@gmail.com,+2348100000157,Regular,Card,2022-11-23,Active
+CUS158,Abdul,Okafor,Male,33,Ibadan,Oyo,abdul.okafor158@gmail.com,+2348100000158,Regular,Bank Transfer,2025-07-12,Active
+CUS159,Ngozi,John,Female,35,Lagos,Lagos,ngozi.john159@gmail.com,+2348100000159,Regular,Cash,2022-11-18,Active
+CUS160,Kelechi,Nwosu,Male,63,Port Harcourt,Rivers,kelechi.nwosu160@gmail.com,+2348100000160,Regular,Cash,2025-09-14,Active
+CUS161,Samuel,Adeyemi,Male,30,Benin City,Edo,samuel.adeyemi161@gmail.com,+2348100000161,Regular,Bank Transfer,2023-09-25,Active
+CUS162,Funke,Ani,Female,48,Abeokuta,Ogun,funke.ani162@gmail.com,+2348100000162,Regular,Mobile Money,2024-02-05,Active
+CUS163,Ibrahim,Ali,Male,40,Abeokuta,Ogun,ibrahim.ali163@gmail.com,+2348100000163,Regular,Card,2023-07-11,Active
+CUS164,Emeka,Bello,Male,35,Ibadan,Oyo,emeka.bello164@gmail.com,+2348100000164,Silver,Cash,2024-06-24,Active
+CUS165,Samuel,Aina,Male,64,Abuja,FCT,samuel.aina165@gmail.com,+2348100000165,Silver,Bank Transfer,2025-12-15,Active
+CUS166,Hauwa,Garba,Female,54,Abeokuta,Ogun,hauwa.garba166@gmail.com,+2348100000166,Regular,Cash,2025-06-22,Active
+CUS167,David,Bello,Male,63,Ilorin,Kwara,david.bello167@gmail.com,+2348100000167,Gold,Mobile Money,2024-10-28,Active
+CUS168,Fatima,Pam,Female,21,Ilorin,Kwara,fatima.pam168@gmail.com,+2348100000168,Regular,Cash,2022-08-02,Active
+CUS169,Abdul,Eze,Male,58,Abeokuta,Ogun,abdul.eze169@gmail.com,+2348100000169,Regular,Card,2023-11-28,Active
+CUS170,Kelechi,Okeke,Male,30,Ibadan,Oyo,kelechi.okeke170@gmail.com,+2348100000170,Regular,Cash,2025-08-10,Active
+CUS171,Mercy,Usman,Female,61,Lagos,Lagos,mercy.usman171@gmail.com,+2348100000171,Regular,Mobile Money,2022-02-04,Active
+CUS172,Musa,Nwosu,Male,59,Abuja,FCT,musa.nwosu172@gmail.com,+2348100000172,Regular,Bank Transfer,2022-06-14,Active
+CUS173,Samuel,Okeke,Male,53,Port Harcourt,Rivers,samuel.okeke173@gmail.com,+2348100000173,Regular,Bank Transfer,2024-12-12,Active
+CUS174,Bolanle,John,Female,45,Lagos,Lagos,bolanle.john174@gmail.com,+2348100000174,Gold,Bank Transfer,2024-01-07,Active
+CUS175,Grace,Usman,Female,26,Lagos,Lagos,grace.usman175@gmail.com,+2348100000175,Regular,Card,2023-10-11,Inactive
+CUS176,Funke,John,Female,53,Lagos,Lagos,funke.john176@gmail.com,+2348100000176,Regular,Card,2024-05-28,Active
+CUS177,Aisha,Eze,Female,47,Enugu,Enugu,aisha.eze177@gmail.com,+2348100000177,Regular,Cash,2022-03-21,Active
+CUS178,Musa,Pam,Male,65,Lagos,Lagos,musa.pam178@gmail.com,+2348100000178,Regular,Cash,2023-09-17,Active
+CUS179,Samuel,Ogunleye,Male,55,Abuja,FCT,samuel.ogunleye179@gmail.com,+2348100000179,Silver,Card,2023-10-07,Active
+CUS180,Ayodele,Sanni,Male,33,Benin City,Edo,ayodele.sanni180@gmail.com,+2348100000180,Platinum,Mobile Money,2022-11-19,Active
+CUS181,Grace,Ali,Female,62,Lagos,Lagos,grace.ali181@gmail.com,+2348100000181,Regular,Mobile Money,2022-11-17,Active
+CUS182,Mary,Ani,Female,42,Abuja,FCT,mary.ani182@gmail.com,+2348100000182,Regular,Mobile Money,2022-06-12,Active
+CUS183,Mercy,Adeyemi,Female,19,Abuja,FCT,mercy.adeyemi183@gmail.com,+2348100000183,Silver,Mobile Money,2023-08-01,Active
+CUS184,Sodiq,Usman,Male,60,Port Harcourt,Rivers,sodiq.usman184@gmail.com,+2348100000184,Silver,Bank Transfer,2024-12-20,Active
+CUS185,Mary,Lawal,Female,38,Abeokuta,Ogun,mary.lawal185@gmail.com,+2348100000185,Platinum,Mobile Money,2024-09-09,Active
+CUS186,Victor,Ali,Male,29,Lagos,Lagos,victor.ali186@gmail.com,+2348100000186,Silver,Mobile Money,2024-02-25,Active
+CUS187,Oluwaseun,Okeke,Male,24,Enugu,Enugu,oluwaseun.okeke187@gmail.com,+2348100000187,Regular,Bank Transfer,2024-10-28,Active
+CUS188,Ayodele,Ojo,Male,53,Jos,Plateau,ayodele.ojo188@gmail.com,+2348100000188,Regular,Cash,2024-03-28,Active
+CUS189,Blessing,John,Female,35,Port Harcourt,Rivers,blessing.john189@gmail.com,+2348100000189,Silver,Card,2023-11-05,Inactive
+CUS190,Blessing,Sanni,Female,18,Enugu,Enugu,blessing.sanni190@gmail.com,+2348100000190,Silver,Cash,2025-10-11,Active
+CUS191,Abdul,Adebayo,Male,58,Abuja,FCT,abdul.adebayo191@gmail.com,+2348100000191,Regular,Mobile Money,2024-10-24,Inactive
+CUS192,Seyi,Eze,Male,50,Lagos,Lagos,seyi.eze192@gmail.com,+2348100000192,Gold,Bank Transfer,2024-05-20,Active
+CUS193,Tunde,Garba,Male,37,Kano,Kano,tunde.garba193@gmail.com,+2348100000193,Regular,Cash,2023-01-19,Active
+CUS194,Ayodele,Usman,Male,30,Lagos,Lagos,ayodele.usman194@gmail.com,+2348100000194,Regular,Card,2024-06-13,Active
+CUS195,Joy,Peters,Female,65,Kano,Kano,joy.peters195@gmail.com,+2348100000195,Platinum,Bank Transfer,2025-04-14,Active
+CUS196,Emeka,Garba,Male,26,Abuja,FCT,emeka.garba196@gmail.com,+2348100000196,Regular,Mobile Money,2025-11-17,Active
+CUS197,Daniel,John,Male,36,Port Harcourt,Rivers,daniel.john197@gmail.com,+2348100000197,Regular,Mobile Money,2025-10-04,Active
+CUS198,Chioma,Okafor,Female,62,Lagos,Lagos,chioma.okafor198@gmail.com,+2348100000198,Regular,Cash,2022-05-08,Active
+CUS199,David,Pam,Male,47,Port Harcourt,Rivers,david.pam199@gmail.com,+2348100000199,Regular,Bank Transfer,2024-02-27,Active
+CUS200,Emmanuel,Bello,Male,64,Lagos,Lagos,emmanuel.bello200@gmail.com,+2348100000200,Platinum,Card,2022-12-11,Active
+CUS201,Esther,Ibrahim,Female,36,Abuja,FCT,esther.ibrahim201@gmail.com,+2348100000201,Regular,Bank Transfer,2025-02-04,Active
+CUS202,Funke,Ali,Female,30,Abuja,FCT,funke.ali202@gmail.com,+2348100000202,Regular,Card,2022-05-04,Active
+CUS203,Chinedu,Aina,Male,45,Abuja,FCT,chinedu.aina203@gmail.com,+2348100000203,Regular,Mobile Money,2023-07-10,Active
+CUS204,Ayodele,Eze,Male,34,Ibadan,Oyo,ayodele.eze204@gmail.com,+2348100000204,Regular,Mobile Money,2025-06-11,Active
+CUS205,Bolanle,Usman,Female,50,Enugu,Enugu,bolanle.usman205@gmail.com,+2348100000205,Regular,Cash,2023-04-04,Active
+CUS206,Samuel,Garba,Male,32,Abuja,FCT,samuel.garba206@gmail.com,+2348100000206,Silver,Bank Transfer,2025-06-09,Active
+CUS207,Grace,Garba,Female,59,Enugu,Enugu,grace.garba207@gmail.com,+2348100000207,Regular,Card,2022-05-20,Active
+CUS208,Chinedu,Peters,Male,32,Kano,Kano,chinedu.peters208@gmail.com,+2348100000208,Regular,Mobile Money,2023-12-14,Active
+CUS209,Grace,Nwosu,Female,34,Port Harcourt,Rivers,grace.nwosu209@gmail.com,+2348100000209,Regular,Card,2022-12-11,Active
+CUS210,Sodiq,Ojo,Male,41,Port Harcourt,Rivers,sodiq.ojo210@gmail.com,+2348100000210,Silver,Bank Transfer,2023-08-02,Active
+CUS211,Tunde,Ojo,Male,45,Lagos,Lagos,tunde.ojo211@gmail.com,+2348100000211,Silver,Bank Transfer,2025-12-28,Active
+CUS212,Kabiru,Adebayo,Male,63,Port Harcourt,Rivers,kabiru.adebayo212@gmail.com,+2348100000212,Platinum,Cash,2025-10-25,Active
+CUS213,David,Peters,Male,40,Abuja,FCT,david.peters213@gmail.com,+2348100000213,Regular,Bank Transfer,2022-03-15,Active
+CUS214,Omotola,Adebayo,Female,61,Abuja,FCT,omotola.adebayo214@gmail.com,+2348100000214,Silver,Cash,2023-04-09,Active
+CUS215,Hauwa,Bello,Female,48,Lagos,Lagos,hauwa.bello215@gmail.com,+2348100000215,Gold,Cash,2024-10-01,Active
+CUS216,Emeka,Eze,Male,43,Benin City,Edo,emeka.eze216@gmail.com,+2348100000216,Silver,Bank Transfer,2024-10-06,Active
+CUS217,Aisha,Nwosu,Female,18,Abuja,FCT,aisha.nwosu217@gmail.com,+2348100000217,Regular,Card,2025-04-28,Active
+CUS218,Ifeoma,Ibrahim,Female,31,Port Harcourt,Rivers,ifeoma.ibrahim218@gmail.com,+2348100000218,Silver,Cash,2025-12-25,Active
+CUS219,Chioma,Aina,Female,60,Lagos,Lagos,chioma.aina219@gmail.com,+2348100000219,Gold,Mobile Money,2025-01-08,Active
+CUS220,Ibrahim,Ojo,Male,29,Abuja,FCT,ibrahim.ojo220@gmail.com,+2348100000220,Regular,Card,2024-06-21,Active
+CUS221,Ngozi,Adeyemi,Female,47,Benin City,Edo,ngozi.adeyemi221@gmail.com,+2348100000221,Silver,Cash,2022-12-07,Active
+CUS222,Hauwa,Okeke,Female,29,Abuja,FCT,hauwa.okeke222@gmail.com,+2348100000222,Regular,Mobile Money,2022-11-05,Active
+CUS223,Adebayo,John,Male,63,Abeokuta,Ogun,adebayo.john223@gmail.com,+2348100000223,Regular,Bank Transfer,2023-04-08,Active
+CUS224,Femi,Lawal,Male,31,Lagos,Lagos,femi.lawal224@gmail.com,+2348100000224,Gold,Cash,2025-12-24,Active
+CUS225,Tunde,Ojo,Male,32,Jos,Plateau,tunde.ojo225@gmail.com,+2348100000225,Regular,Cash,2025-07-16,Active
+CUS226,Deborah,Usman,Female,20,Lagos,Lagos,deborah.usman226@gmail.com,+2348100000226,Silver,Cash,2024-12-17,Inactive
+CUS227,Fatima,Adebayo,Female,27,Lagos,Lagos,fatima.adebayo227@gmail.com,+2348100000227,Regular,Bank Transfer,2022-09-05,Active
+CUS228,Kabiru,Okeke,Male,31,Abuja,FCT,kabiru.okeke228@gmail.com,+2348100000228,Regular,Card,2024-06-26,Active
+CUS229,Kabiru,Lawal,Male,65,Ilorin,Kwara,kabiru.lawal229@gmail.com,+2348100000229,Regular,Cash,2023-07-17,Active
+CUS230,Joseph,Usman,Male,22,Ibadan,Oyo,joseph.usman230@gmail.com,+2348100000230,Regular,Card,2025-01-15,Active
+CUS231,Chioma,Ani,Female,34,Ilorin,Kwara,chioma.ani231@gmail.com,+2348100000231,Regular,Card,2022-04-17,Active
+CUS232,Mercy,Peters,Female,57,Kano,Kano,mercy.peters232@gmail.com,+2348100000232,Regular,Bank Transfer,2025-04-05,Inactive
+CUS233,Sodiq,John,Male,55,Enugu,Enugu,sodiq.john233@gmail.com,+2348100000233,Regular,Card,2023-01-06,Active
+CUS234,Emmanuel,Okafor,Male,28,Abuja,FCT,emmanuel.okafor234@gmail.com,+2348100000234,Silver,Mobile Money,2022-07-07,Active
+CUS235,Chioma,Okafor,Female,41,Lagos,Lagos,chioma.okafor235@gmail.com,+2348100000235,Regular,Card,2024-12-16,Active
+CUS236,Emeka,Okafor,Male,30,Ibadan,Oyo,emeka.okafor236@gmail.com,+2348100000236,Regular,Bank Transfer,2023-08-13,Active
+CUS237,Ibrahim,John,Male,53,Ibadan,Oyo,ibrahim.john237@gmail.com,+2348100000237,Regular,Card,2023-07-10,Active
+CUS238,David,Lawal,Male,37,Benin City,Edo,david.lawal238@gmail.com,+2348100000238,Gold,Mobile Money,2024-06-26,Active
+CUS239,Chinedu,Peters,Male,21,Enugu,Enugu,chinedu.peters239@gmail.com,+2348100000239,Silver,Bank Transfer,2022-12-13,Active
+CUS240,Femi,Bello,Male,40,Lagos,Lagos,femi.bello240@gmail.com,+2348100000240,Silver,Card,2022-05-07,Active
+CUS241,Funke,Adeyemi,Female,48,Port Harcourt,Rivers,funke.adeyemi241@gmail.com,+2348100000241,Regular,Mobile Money,2025-04-03,Active
+CUS242,Seyi,Sanni,Male,61,Lagos,Lagos,seyi.sanni242@gmail.com,+2348100000242,Regular,Bank Transfer,2025-05-14,Active
+CUS243,Fatima,Nwosu,Female,50,Ibadan,Oyo,fatima.nwosu243@gmail.com,+2348100000243,Regular,Mobile Money,2022-01-10,Active
+CUS244,Funke,Okeke,Female,28,Enugu,Enugu,funke.okeke244@gmail.com,+2348100000244,Regular,Cash,2023-11-07,Active
+CUS245,Kemi,Okafor,Female,43,Abeokuta,Ogun,kemi.okafor245@gmail.com,+2348100000245,Regular,Bank Transfer,2025-06-14,Active
+CUS246,Aisha,Ali,Female,27,Lagos,Lagos,aisha.ali246@gmail.com,+2348100000246,Regular,Cash,2023-03-19,Active
+CUS247,Amaka,Usman,Female,23,Port Harcourt,Rivers,amaka.usman247@gmail.com,+2348100000247,Silver,Bank Transfer,2022-12-08,Active
+CUS248,Omotola,Ojo,Female,51,Ibadan,Oyo,omotola.ojo248@gmail.com,+2348100000248,Regular,Card,2022-01-21,Active
+CUS249,Femi,Sanni,Male,22,Lagos,Lagos,femi.sanni249@gmail.com,+2348100000249,Platinum,Mobile Money,2025-03-03,Active
+CUS250,Daniel,Ojo,Male,18,Port Harcourt,Rivers,daniel.ojo250@gmail.com,+2348100000250,Silver,Cash,2024-08-10,Active
+CUS251,Ibrahim,Adeyemi,Male,32,Jos,Plateau,ibrahim.adeyemi251@gmail.com,+2348100000251,Regular,Card,2024-02-10,Active
+CUS252,Esther,Ogunleye,Female,25,Abuja,FCT,esther.ogunleye252@gmail.com,+2348100000252,Silver,Card,2025-04-15,Active
+CUS253,Tunde,Ali,Male,42,Lagos,Lagos,tunde.ali253@gmail.com,+2348100000253,Platinum,Card,2022-09-23,Active
+CUS254,Seyi,Okafor,Male,58,Lagos,Lagos,seyi.okafor254@gmail.com,+2348100000254,Regular,Bank Transfer,2024-11-07,Active
+CUS255,Aisha,Eze,Female,50,Ilorin,Kwara,aisha.eze255@gmail.com,+2348100000255,Regular,Bank Transfer,2024-04-20,Active
+CUS256,Amaka,Lawal,Female,22,Kano,Kano,amaka.lawal256@gmail.com,+2348100000256,Regular,Mobile Money,2022-10-11,Active
+CUS257,Emmanuel,Ogunleye,Male,45,Port Harcourt,Rivers,emmanuel.ogunleye257@gmail.com,+2348100000257,Regular,Card,2022-03-22,Active
+CUS258,Chinedu,Garba,Male,35,Lagos,Lagos,chinedu.garba258@gmail.com,+2348100000258,Silver,Mobile Money,2022-08-01,Active
+CUS259,Ruth,Adeyemi,Female,30,Abuja,FCT,ruth.adeyemi259@gmail.com,+2348100000259,Regular,Bank Transfer,2022-07-10,Active
+CUS260,Abdul,Okeke,Male,27,Abuja,FCT,abdul.okeke260@gmail.com,+2348100000260,Regular,Cash,2025-12-11,Active
+CUS261,Ngozi,Peters,Female,52,Port Harcourt,Rivers,ngozi.peters261@gmail.com,+2348100000261,Regular,Card,2022-07-01,Active
+CUS262,Chioma,Garba,Female,65,Lagos,Lagos,chioma.garba262@gmail.com,+2348100000262,Regular,Cash,2023-12-24,Active
+CUS263,Musa,Ojo,Male,34,Abuja,FCT,musa.ojo263@gmail.com,+2348100000263,Silver,Card,2024-08-23,Active
+CUS264,Omotola,Usman,Female,56,Ibadan,Oyo,omotola.usman264@gmail.com,+2348100000264,Regular,Card,2025-01-06,Active
+CUS265,Funke,Ogunleye,Female,62,Port Harcourt,Rivers,funke.ogunleye265@gmail.com,+2348100000265,Regular,Cash,2024-10-19,Active
+CUS266,Musa,Ogunleye,Male,38,Benin City,Edo,musa.ogunleye266@gmail.com,+2348100000266,Silver,Bank Transfer,2024-04-08,Active
+CUS267,Ayodele,Adebayo,Male,54,Abuja,FCT,ayodele.adebayo267@gmail.com,+2348100000267,Regular,Card,2022-08-06,Active
+CUS268,David,Aina,Male,44,Port Harcourt,Rivers,david.aina268@gmail.com,+2348100000268,Regular,Mobile Money,2025-11-03,Active
+CUS269,Chioma,Sanni,Female,58,Ibadan,Oyo,chioma.sanni269@gmail.com,+2348100000269,Regular,Card,2023-05-15,Active
+CUS270,Ayodele,Lawal,Male,35,Ibadan,Oyo,ayodele.lawal270@gmail.com,+2348100000270,Regular,Cash,2024-08-15,Active
+CUS271,David,Ojo,Male,63,Abeokuta,Ogun,david.ojo271@gmail.com,+2348100000271,Regular,Card,2024-07-22,Active
+CUS272,Zainab,John,Female,64,Abuja,FCT,zainab.john272@gmail.com,+2348100000272,Regular,Bank Transfer,2023-01-11,Active
+CUS273,Joy,Ogunleye,Female,61,Lagos,Lagos,joy.ogunleye273@gmail.com,+2348100000273,Regular,Cash,2024-11-05,Active
+CUS274,Grace,Eze,Female,20,Lagos,Lagos,grace.eze274@gmail.com,+2348100000274,Regular,Card,2025-07-11,Active
+CUS275,Kelechi,Lawal,Male,23,Lagos,Lagos,kelechi.lawal275@gmail.com,+2348100000275,Regular,Cash,2022-03-06,Active
+CUS276,Fatima,Pam,Female,45,Lagos,Lagos,fatima.pam276@gmail.com,+2348100000276,Silver,Mobile Money,2024-01-23,Active
+CUS277,Kemi,Lawal,Female,34,Ilorin,Kwara,kemi.lawal277@gmail.com,+2348100000277,Regular,Card,2023-08-10,Active
+CUS278,Kemi,Ali,Female,40,Port Harcourt,Rivers,kemi.ali278@gmail.com,+2348100000278,Regular,Bank Transfer,2023-06-13,Active
+CUS279,Omotola,Bello,Female,24,Ibadan,Oyo,omotola.bello279@gmail.com,+2348100000279,Regular,Bank Transfer,2024-06-03,Active
+CUS280,Ngozi,Peters,Female,51,Port Harcourt,Rivers,ngozi.peters280@gmail.com,+2348100000280,Regular,Card,2022-03-17,Active
+CUS281,Ibrahim,Usman,Male,59,Kano,Kano,ibrahim.usman281@gmail.com,+2348100000281,Regular,Cash,2023-07-06,Active
+CUS282,Abdul,Ogunleye,Male,24,Abuja,FCT,abdul.ogunleye282@gmail.com,+2348100000282,Regular,Bank Transfer,2025-11-03,Inactive
+CUS283,Zainab,Ojo,Female,30,Kano,Kano,zainab.ojo283@gmail.com,+2348100000283,Silver,Cash,2025-06-01,Active
+CUS284,Oluwaseun,Adeyemi,Male,55,Lagos,Lagos,oluwaseun.adeyemi284@gmail.com,+2348100000284,Silver,Bank Transfer,2023-04-10,Active
+CUS285,Chioma,Peters,Female,35,Port Harcourt,Rivers,chioma.peters285@gmail.com,+2348100000285,Silver,Mobile Money,2025-07-01,Active
+CUS286,Kemi,Peters,Female,22,Abuja,FCT,kemi.peters286@gmail.com,+2348100000286,Regular,Cash,2022-08-16,Active
+CUS287,David,Garba,Male,39,Lagos,Lagos,david.garba287@gmail.com,+2348100000287,Silver,Bank Transfer,2024-06-15,Active
+CUS288,Kemi,Usman,Female,47,Port Harcourt,Rivers,kemi.usman288@gmail.com,+2348100000288,Silver,Bank Transfer,2022-04-05,Active
+CUS289,Victor,Usman,Male,55,Kano,Kano,victor.usman289@gmail.com,+2348100000289,Regular,Bank Transfer,2024-05-08,Active
+CUS290,Ayodele,Okafor,Male,41,Kano,Kano,ayodele.okafor290@gmail.com,+2348100000290,Gold,Mobile Money,2025-08-01,Active
+CUS291,Omotola,Bello,Female,33,Abeokuta,Ogun,omotola.bello291@gmail.com,+2348100000291,Regular,Mobile Money,2022-05-04,Active
+CUS292,David,Okeke,Male,22,Benin City,Edo,david.okeke292@gmail.com,+2348100000292,Silver,Bank Transfer,2022-08-22,Active
+CUS293,Funke,John,Female,53,Abuja,FCT,funke.john293@gmail.com,+2348100000293,Gold,Cash,2023-06-28,Active
+CUS294,Daniel,Ibrahim,Male,28,Lagos,Lagos,daniel.ibrahim294@gmail.com,+2348100000294,Silver,Bank Transfer,2022-06-01,Active
+CUS295,Oluwaseun,Adeyemi,Male,49,Enugu,Enugu,oluwaseun.adeyemi295@gmail.com,+2348100000295,Silver,Cash,2024-01-07,Active
+CUS296,Ibrahim,Aina,Male,59,Lagos,Lagos,ibrahim.aina296@gmail.com,+2348100000296,Gold,Cash,2025-09-09,Active
+CUS297,Abdul,Ani,Male,55,Abuja,FCT,abdul.ani297@gmail.com,+2348100000297,Silver,Card,2023-11-23,Active
+CUS298,Esther,Ogunleye,Female,61,Lagos,Lagos,esther.ogunleye298@gmail.com,+2348100000298,Regular,Cash,2023-09-16,Active
+CUS299,Joseph,Adeyemi,Male,64,Lagos,Lagos,joseph.adeyemi299@gmail.com,+2348100000299,Regular,Mobile Money,2022-12-13,Active
+CUS300,Ayodele,Pam,Male,29,Ibadan,Oyo,ayodele.pam300@gmail.com,+2348100000300,Regular,Cash,2023-07-12,Active
+CUS301,Bolanle,Ogunleye,Female,53,Port Harcourt,Rivers,bolanle.ogunleye301@gmail.com,+2348100000301,Regular,Mobile Money,2022-08-16,Active
+CUS302,Emmanuel,Okeke,Male,49,Lagos,Lagos,emmanuel.okeke302@gmail.com,+2348100000302,Regular,Card,2025-08-28,Active
+CUS303,Daniel,Ogunleye,Male,33,Lagos,Lagos,daniel.ogunleye303@gmail.com,+2348100000303,Regular,Card,2023-04-20,Active
+CUS304,Seyi,Ibrahim,Male,34,Lagos,Lagos,seyi.ibrahim304@gmail.com,+2348100000304,Gold,Cash,2025-09-06,Active
+CUS305,Oluwaseun,John,Male,35,Abuja,FCT,oluwaseun.john305@gmail.com,+2348100000305,Regular,Mobile Money,2025-03-05,Active
+CUS306,Aisha,Usman,Female,64,Kano,Kano,aisha.usman306@gmail.com,+2348100000306,Regular,Bank Transfer,2022-09-09,Active
+CUS307,Mercy,Okafor,Female,25,Lagos,Lagos,mercy.okafor307@gmail.com,+2348100000307,Regular,Mobile Money,2023-10-09,Inactive
+CUS308,Ibrahim,Sanni,Male,52,Ilorin,Kwara,ibrahim.sanni308@gmail.com,+2348100000308,Silver,Mobile Money,2025-09-26,Active
+CUS309,Adebayo,Sanni,Male,49,Kano,Kano,adebayo.sanni309@gmail.com,+2348100000309,Regular,Cash,2025-10-20,Active
+CUS310,Ngozi,Garba,Female,50,Abuja,FCT,ngozi.garba310@gmail.com,+2348100000310,Gold,Mobile Money,2022-07-23,Active
+CUS311,Funke,Aina,Female,38,Lagos,Lagos,funke.aina311@gmail.com,+2348100000311,Silver,Mobile Money,2024-11-27,Active
+CUS312,Ibrahim,John,Male,36,Jos,Plateau,ibrahim.john312@gmail.com,+2348100000312,Silver,Bank Transfer,2024-06-24,Active
+CUS313,Blessing,Garba,Female,19,Ibadan,Oyo,blessing.garba313@gmail.com,+2348100000313,Regular,Mobile Money,2025-03-10,Active
+CUS314,Blessing,Sanni,Female,30,Kano,Kano,blessing.sanni314@gmail.com,+2348100000314,Regular,Cash,2025-07-14,Active
+CUS315,Ibrahim,Nwosu,Male,56,Kano,Kano,ibrahim.nwosu315@gmail.com,+2348100000315,Regular,Mobile Money,2025-08-16,Active
+CUS316,Chinedu,Lawal,Male,52,Benin City,Edo,chinedu.lawal316@gmail.com,+2348100000316,Regular,Mobile Money,2023-04-07,Active
+CUS317,Amaka,Lawal,Female,18,Port Harcourt,Rivers,amaka.lawal317@gmail.com,+2348100000317,Regular,Cash,2024-11-15,Active
+CUS318,Omotola,Okafor,Female,38,Lagos,Lagos,omotola.okafor318@gmail.com,+2348100000318,Silver,Bank Transfer,2022-07-28,Active
+CUS319,Ngozi,Lawal,Female,53,Lagos,Lagos,ngozi.lawal319@gmail.com,+2348100000319,Regular,Cash,2022-03-27,Active
+CUS320,Adebayo,Usman,Male,62,Lagos,Lagos,adebayo.usman320@gmail.com,+2348100000320,Regular,Card,2023-05-08,Active
+CUS321,Ngozi,Bello,Female,27,Kano,Kano,ngozi.bello321@gmail.com,+2348100000321,Regular,Cash,2024-09-19,Active
+CUS322,Deborah,Ojo,Female,58,Abeokuta,Ogun,deborah.ojo322@gmail.com,+2348100000322,Regular,Cash,2022-01-05,Active
+CUS323,Zainab,Peters,Female,34,Lagos,Lagos,zainab.peters323@gmail.com,+2348100000323,Regular,Cash,2022-03-28,Active
+CUS324,Blessing,Ogunleye,Female,51,Enugu,Enugu,blessing.ogunleye324@gmail.com,+2348100000324,Regular,Card,2023-12-12,Active
+CUS325,Grace,Ali,Female,26,Jos,Plateau,grace.ali325@gmail.com,+2348100000325,Regular,Mobile Money,2023-02-20,Active
+CUS326,Sodiq,Sanni,Male,46,Port Harcourt,Rivers,sodiq.sanni326@gmail.com,+2348100000326,Regular,Card,2025-02-22,Active
+CUS327,Amaka,Aina,Female,33,Abeokuta,Ogun,amaka.aina327@gmail.com,+2348100000327,Gold,Card,2025-07-28,Active
+CUS328,Omotola,Adebayo,Female,31,Lagos,Lagos,omotola.adebayo328@gmail.com,+2348100000328,Silver,Bank Transfer,2024-01-04,Active
+CUS329,Sodiq,Sanni,Male,32,Ilorin,Kwara,sodiq.sanni329@gmail.com,+2348100000329,Silver,Card,2025-12-14,Inactive
+CUS330,Daniel,Garba,Male,24,Lagos,Lagos,daniel.garba330@gmail.com,+2348100000330,Regular,Bank Transfer,2022-06-28,Active
+CUS331,Tunde,Ali,Male,41,Lagos,Lagos,tunde.ali331@gmail.com,+2348100000331,Regular,Card,2024-02-17,Active
+CUS332,Grace,Bello,Female,53,Kano,Kano,grace.bello332@gmail.com,+2348100000332,Regular,Cash,2025-07-24,Active
+CUS333,Ibrahim,John,Male,27,Ibadan,Oyo,ibrahim.john333@gmail.com,+2348100000333,Regular,Mobile Money,2022-02-03,Active
+CUS334,Aisha,Lawal,Female,34,Port Harcourt,Rivers,aisha.lawal334@gmail.com,+2348100000334,Regular,Card,2024-11-19,Active
+CUS335,Samuel,Sanni,Male,48,Abuja,FCT,samuel.sanni335@gmail.com,+2348100000335,Silver,Mobile Money,2025-09-11,Active
+CUS336,Ruth,Aina,Female,51,Ilorin,Kwara,ruth.aina336@gmail.com,+2348100000336,Silver,Card,2024-06-10,Active
+CUS337,Tunde,Ibrahim,Male,32,Ibadan,Oyo,tunde.ibrahim337@gmail.com,+2348100000337,Regular,Mobile Money,2024-11-09,Active
+CUS338,Abdul,Ogunleye,Male,61,Abuja,FCT,abdul.ogunleye338@gmail.com,+2348100000338,Platinum,Mobile Money,2024-07-10,Active
+CUS339,Mary,Garba,Female,34,Lagos,Lagos,mary.garba339@gmail.com,+2348100000339,Regular,Bank Transfer,2023-11-19,Active
+CUS340,Grace,Nwosu,Female,25,Ibadan,Oyo,grace.nwosu340@gmail.com,+2348100000340,Regular,Cash,2022-12-07,Active
+CUS341,Oluwaseun,Garba,Male,62,Lagos,Lagos,oluwaseun.garba341@gmail.com,+2348100000341,Regular,Card,2022-04-24,Active
+CUS342,Emeka,Bello,Male,65,Abeokuta,Ogun,emeka.bello342@gmail.com,+2348100000342,Regular,Bank Transfer,2022-01-18,Active
+CUS343,Abdul,Lawal,Male,39,Kano,Kano,abdul.lawal343@gmail.com,+2348100000343,Regular,Bank Transfer,2025-12-22,Active
+CUS344,Blessing,Adeyemi,Female,34,Kano,Kano,blessing.adeyemi344@gmail.com,+2348100000344,Regular,Cash,2024-08-02,Active
+CUS345,Esther,Ani,Female,42,Kano,Kano,esther.ani345@gmail.com,+2348100000345,Regular,Bank Transfer,2023-09-08,Active
+CUS346,Kabiru,Ali,Male,43,Abuja,FCT,kabiru.ali346@gmail.com,+2348100000346,Regular,Mobile Money,2025-07-24,Active
+CUS347,Mary,Adeyemi,Female,54,Ibadan,Oyo,mary.adeyemi347@gmail.com,+2348100000347,Gold,Cash,2024-03-01,Active
+CUS348,Femi,Aina,Male,34,Abeokuta,Ogun,femi.aina348@gmail.com,+2348100000348,Regular,Card,2025-04-02,Active
+CUS349,Ruth,Pam,Female,47,Abuja,FCT,ruth.pam349@gmail.com,+2348100000349,Silver,Bank Transfer,2025-01-07,Active
+CUS350,Fatima,Ibrahim,Female,30,Kano,Kano,fatima.ibrahim350@gmail.com,+2348100000350,Regular,Mobile Money,2022-09-20,Active
+CUS351,Samuel,Ali,Male,61,Benin City,Edo,samuel.ali351@gmail.com,+2348100000351,Regular,Card,2022-01-24,Active
+CUS352,Bolanle,Ojo,Female,43,Abeokuta,Ogun,bolanle.ojo352@gmail.com,+2348100000352,Regular,Card,2023-12-11,Active
+CUS353,Daniel,Eze,Male,45,Ibadan,Oyo,daniel.eze353@gmail.com,+2348100000353,Regular,Card,2025-06-24,Active
+CUS354,Chinedu,Sanni,Male,44,Lagos,Lagos,chinedu.sanni354@gmail.com,+2348100000354,Regular,Mobile Money,2023-09-15,Active
+CUS355,Fatima,John,Female,61,Abuja,FCT,fatima.john355@gmail.com,+2348100000355,Silver,Mobile Money,2023-01-13,Active
+CUS356,Musa,Pam,Male,46,Jos,Plateau,musa.pam356@gmail.com,+2348100000356,Regular,Bank Transfer,2022-05-23,Active
+CUS357,Amaka,Pam,Female,30,Benin City,Edo,amaka.pam357@gmail.com,+2348100000357,Regular,Mobile Money,2025-05-27,Active
+CUS358,Kabiru,Lawal,Male,56,Lagos,Lagos,kabiru.lawal358@gmail.com,+2348100000358,Silver,Bank Transfer,2023-12-09,Active
+CUS359,Grace,Eze,Female,24,Abuja,FCT,grace.eze359@gmail.com,+2348100000359,Regular,Bank Transfer,2023-04-12,Active
+CUS360,Esther,Ojo,Female,58,Lagos,Lagos,esther.ojo360@gmail.com,+2348100000360,Regular,Cash,2024-04-21,Active
+CUS361,Ibrahim,Adebayo,Male,50,Ibadan,Oyo,ibrahim.adebayo361@gmail.com,+2348100000361,Regular,Mobile Money,2025-04-16,Active
+CUS362,Aisha,Eze,Female,23,Ilorin,Kwara,aisha.eze362@gmail.com,+2348100000362,Silver,Bank Transfer,2023-02-11,Active
+CUS363,Chinedu,Aina,Male,44,Lagos,Lagos,chinedu.aina363@gmail.com,+2348100000363,Regular,Bank Transfer,2022-04-19,Active
+CUS364,Ibrahim,Eze,Male,34,Lagos,Lagos,ibrahim.eze364@gmail.com,+2348100000364,Platinum,Card,2024-04-19,Active
+CUS365,Adebayo,Usman,Male,53,Lagos,Lagos,adebayo.usman365@gmail.com,+2348100000365,Regular,Bank Transfer,2024-03-25,Active
+CUS366,Kelechi,Ani,Male,33,Lagos,Lagos,kelechi.ani366@gmail.com,+2348100000366,Silver,Bank Transfer,2022-07-01,Active
+CUS367,Esther,Garba,Female,32,Abuja,FCT,esther.garba367@gmail.com,+2348100000367,Regular,Cash,2023-02-19,Active
+CUS368,Seyi,Okeke,Male,57,Abuja,FCT,seyi.okeke368@gmail.com,+2348100000368,Regular,Card,2022-08-03,Active
+CUS369,Ruth,Pam,Female,23,Kano,Kano,ruth.pam369@gmail.com,+2348100000369,Regular,Card,2025-06-12,Active
+CUS370,David,Garba,Male,34,Ibadan,Oyo,david.garba370@gmail.com,+2348100000370,Regular,Cash,2024-07-08,Active
+CUS371,Aisha,Adebayo,Female,23,Abuja,FCT,aisha.adebayo371@gmail.com,+2348100000371,Gold,Cash,2023-06-06,Active
+CUS372,Joseph,Adeyemi,Male,36,Lagos,Lagos,joseph.adeyemi372@gmail.com,+2348100000372,Regular,Card,2022-07-07,Active
+CUS373,Hauwa,Okafor,Female,25,Lagos,Lagos,hauwa.okafor373@gmail.com,+2348100000373,Silver,Card,2025-01-08,Inactive
+CUS374,Victor,Bello,Male,43,Benin City,Edo,victor.bello374@gmail.com,+2348100000374,Regular,Mobile Money,2024-11-10,Active
+CUS375,Mercy,Nwosu,Female,41,Kano,Kano,mercy.nwosu375@gmail.com,+2348100000375,Gold,Card,2024-11-22,Active
+CUS376,Tunde,Pam,Male,40,Kano,Kano,tunde.pam376@gmail.com,+2348100000376,Gold,Bank Transfer,2022-06-01,Active
+CUS377,Emeka,Ojo,Male,31,Benin City,Edo,emeka.ojo377@gmail.com,+2348100000377,Regular,Bank Transfer,2022-07-12,Active
+CUS378,Kabiru,Sanni,Male,27,Ilorin,Kwara,kabiru.sanni378@gmail.com,+2348100000378,Platinum,Card,2024-05-25,Active
+CUS379,Oluwaseun,Usman,Male,36,Abuja,FCT,oluwaseun.usman379@gmail.com,+2348100000379,Regular,Card,2023-08-11,Inactive
+CUS380,Oluwaseun,Ojo,Male,56,Ibadan,Oyo,oluwaseun.ojo380@gmail.com,+2348100000380,Silver,Mobile Money,2023-09-09,Active
+CUS381,David,Garba,Male,21,Lagos,Lagos,david.garba381@gmail.com,+2348100000381,Gold,Bank Transfer,2025-06-22,Active
+CUS382,Kemi,Aina,Female,22,Lagos,Lagos,kemi.aina382@gmail.com,+2348100000382,Silver,Cash,2023-09-08,Active
+CUS383,Zainab,Ibrahim,Female,36,Kano,Kano,zainab.ibrahim383@gmail.com,+2348100000383,Platinum,Bank Transfer,2024-06-11,Active
+CUS384,Funke,Ojo,Female,60,Abuja,FCT,funke.ojo384@gmail.com,+2348100000384,Gold,Mobile Money,2025-04-16,Active
+CUS385,Zainab,Ogunleye,Female,20,Port Harcourt,Rivers,zainab.ogunleye385@gmail.com,+2348100000385,Regular,Mobile Money,2022-07-10,Active
+CUS386,Daniel,Ani,Male,60,Port Harcourt,Rivers,daniel.ani386@gmail.com,+2348100000386,Silver,Card,2025-01-23,Active
+CUS387,Fatima,Pam,Female,30,Enugu,Enugu,fatima.pam387@gmail.com,+2348100000387,Regular,Mobile Money,2025-07-26,Active
+CUS388,Oluwaseun,Ojo,Male,40,Ilorin,Kwara,oluwaseun.ojo388@gmail.com,+2348100000388,Regular,Bank Transfer,2025-12-05,Active
+CUS389,Deborah,Adebayo,Female,53,Abuja,FCT,deborah.adebayo389@gmail.com,+2348100000389,Regular,Mobile Money,2024-10-17,Active
+CUS390,Femi,Adeyemi,Male,59,Kano,Kano,femi.adeyemi390@gmail.com,+2348100000390,Regular,Cash,2022-05-27,Active
+CUS391,David,Bello,Male,59,Port Harcourt,Rivers,david.bello391@gmail.com,+2348100000391,Regular,Mobile Money,2023-10-28,Active
+CUS392,Blessing,Ani,Female,45,Ibadan,Oyo,blessing.ani392@gmail.com,+2348100000392,Platinum,Mobile Money,2023-03-25,Active
+CUS393,Ayodele,Peters,Male,41,Ibadan,Oyo,ayodele.peters393@gmail.com,+2348100000393,Gold,Cash,2025-05-09,Active
+CUS394,Daniel,Ani,Male,65,Enugu,Enugu,daniel.ani394@gmail.com,+2348100000394,Regular,Card,2022-06-16,Active
+CUS395,Kabiru,Okeke,Male,23,Lagos,Lagos,kabiru.okeke395@gmail.com,+2348100000395,Regular,Mobile Money,2022-08-09,Active
+CUS396,Ibrahim,Okeke,Male,27,Lagos,Lagos,ibrahim.okeke396@gmail.com,+2348100000396,Regular,Bank Transfer,2022-05-25,Active
+CUS397,Mercy,Ogunleye,Female,41,Abuja,FCT,mercy.ogunleye397@gmail.com,+2348100000397,Regular,Card,2025-08-27,Active
+CUS398,Daniel,Aina,Male,63,Lagos,Lagos,daniel.aina398@gmail.com,+2348100000398,Silver,Bank Transfer,2024-07-18,Inactive
+CUS399,Bolanle,John,Female,63,Abuja,FCT,bolanle.john399@gmail.com,+2348100000399,Regular,Card,2023-09-02,Active
+CUS400,Kemi,Peters,Female,47,Lagos,Lagos,kemi.peters400@gmail.com,+2348100000400,Regular,Card,2024-09-17,Active
+CUS401,Deborah,Sanni,Female,30,Lagos,Lagos,deborah.sanni401@gmail.com,+2348100000401,Regular,Bank Transfer,2024-01-18,Active
+CUS402,Kabiru,John,Male,26,Ilorin,Kwara,kabiru.john402@gmail.com,+2348100000402,Silver,Cash,2022-12-02,Active
+CUS403,Omotola,Okeke,Female,55,Ilorin,Kwara,omotola.okeke403@gmail.com,+2348100000403,Regular,Mobile Money,2025-05-23,Active
+CUS404,Kemi,Peters,Female,53,Ilorin,Kwara,kemi.peters404@gmail.com,+2348100000404,Regular,Mobile Money,2022-10-09,Active
+CUS405,Mercy,John,Female,61,Lagos,Lagos,mercy.john405@gmail.com,+2348100000405,Regular,Cash,2024-09-03,Active
+CUS406,Aisha,Eze,Female,24,Abeokuta,Ogun,aisha.eze406@gmail.com,+2348100000406,Gold,Bank Transfer,2024-03-23,Active
+CUS407,Abdul,Usman,Male,61,Enugu,Enugu,abdul.usman407@gmail.com,+2348100000407,Gold,Mobile Money,2025-12-22,Active
+CUS408,Grace,Nwosu,Female,65,Kano,Kano,grace.nwosu408@gmail.com,+2348100000408,Regular,Bank Transfer,2024-02-15,Active
+CUS409,Samuel,Ojo,Male,60,Abuja,FCT,samuel.ojo409@gmail.com,+2348100000409,Silver,Cash,2025-06-24,Active
+CUS410,Joseph,Okeke,Male,45,Lagos,Lagos,joseph.okeke410@gmail.com,+2348100000410,Regular,Mobile Money,2022-10-12,Active
+CUS411,Kemi,Sanni,Female,36,Port Harcourt,Rivers,kemi.sanni411@gmail.com,+2348100000411,Gold,Card,2024-10-16,Active
+CUS412,Emmanuel,Ogunleye,Male,26,Ilorin,Kwara,emmanuel.ogunleye412@gmail.com,+2348100000412,Silver,Mobile Money,2023-01-28,Active
+CUS413,Ibrahim,John,Male,28,Ilorin,Kwara,ibrahim.john413@gmail.com,+2348100000413,Silver,Mobile Money,2022-02-12,Active
+CUS414,Abdul,Okeke,Male,25,Benin City,Edo,abdul.okeke414@gmail.com,+2348100000414,Platinum,Bank Transfer,2024-01-10,Active
+CUS415,Samuel,Ibrahim,Male,48,Port Harcourt,Rivers,samuel.ibrahim415@gmail.com,+2348100000415,Regular,Card,2025-07-23,Active
+CUS416,Kelechi,John,Male,63,Enugu,Enugu,kelechi.john416@gmail.com,+2348100000416,Regular,Card,2023-02-17,Active
+CUS417,Ayodele,Adebayo,Male,59,Ibadan,Oyo,ayodele.adebayo417@gmail.com,+2348100000417,Silver,Bank Transfer,2022-11-17,Active
+CUS418,Ruth,Ogunleye,Female,40,Lagos,Lagos,ruth.ogunleye418@gmail.com,+2348100000418,Regular,Card,2025-01-26,Active
+CUS419,Fatima,Eze,Female,21,Port Harcourt,Rivers,fatima.eze419@gmail.com,+2348100000419,Regular,Cash,2024-08-19,Active
+CUS420,Ayodele,Ani,Male,48,Abeokuta,Ogun,ayodele.ani420@gmail.com,+2348100000420,Platinum,Bank Transfer,2024-06-01,Active
+CUS421,Victor,Ali,Male,65,Port Harcourt,Rivers,victor.ali421@gmail.com,+2348100000421,Regular,Card,2024-10-06,Active
+CUS422,Blessing,Adebayo,Female,44,Benin City,Edo,blessing.adebayo422@gmail.com,+2348100000422,Regular,Bank Transfer,2022-02-20,Active
+CUS423,David,Okeke,Male,64,Port Harcourt,Rivers,david.okeke423@gmail.com,+2348100000423,Regular,Mobile Money,2025-10-05,Active
+CUS424,Ruth,Adebayo,Female,24,Lagos,Lagos,ruth.adebayo424@gmail.com,+2348100000424,Silver,Cash,2023-12-20,Active
+CUS425,Kabiru,Okeke,Male,33,Abuja,FCT,kabiru.okeke425@gmail.com,+2348100000425,Regular,Bank Transfer,2023-10-09,Active
+CUS426,Joy,Okafor,Female,29,Abuja,FCT,joy.okafor426@gmail.com,+2348100000426,Silver,Cash,2025-11-22,Active
+CUS427,Kelechi,Eze,Male,32,Ilorin,Kwara,kelechi.eze427@gmail.com,+2348100000427,Regular,Card,2024-07-20,Active
+CUS428,Grace,Nwosu,Female,30,Kano,Kano,grace.nwosu428@gmail.com,+2348100000428,Regular,Bank Transfer,2023-04-18,Active
+CUS429,Kelechi,Adeyemi,Male,38,Abuja,FCT,kelechi.adeyemi429@gmail.com,+2348100000429,Regular,Card,2025-11-14,Active
+CUS430,Esther,Ojo,Female,61,Ibadan,Oyo,esther.ojo430@gmail.com,+2348100000430,Regular,Mobile Money,2024-12-04,Active
+CUS431,Mary,Okeke,Female,45,Kano,Kano,mary.okeke431@gmail.com,+2348100000431,Regular,Bank Transfer,2023-09-19,Active
+CUS432,Emeka,Aina,Male,56,Lagos,Lagos,emeka.aina432@gmail.com,+2348100000432,Regular,Mobile Money,2023-09-11,Active
+CUS433,Ayodele,Bello,Male,29,Lagos,Lagos,ayodele.bello433@gmail.com,+2348100000433,Regular,Mobile Money,2022-05-15,Active
+CUS434,Samuel,Nwosu,Male,54,Lagos,Lagos,samuel.nwosu434@gmail.com,+2348100000434,Gold,Mobile Money,2022-06-06,Active
+CUS435,Ibrahim,Sanni,Male,23,Lagos,Lagos,ibrahim.sanni435@gmail.com,+2348100000435,Silver,Mobile Money,2024-10-04,Active
+CUS436,Amaka,Ani,Female,23,Abuja,FCT,amaka.ani436@gmail.com,+2348100000436,Regular,Mobile Money,2022-08-28,Active
+CUS437,Esther,Adeyemi,Female,35,Lagos,Lagos,esther.adeyemi437@gmail.com,+2348100000437,Gold,Card,2022-01-11,Active
+CUS438,Joy,Adeyemi,Female,20,Kano,Kano,joy.adeyemi438@gmail.com,+2348100000438,Regular,Cash,2024-07-25,Active
+CUS439,Zainab,Lawal,Female,61,Jos,Plateau,zainab.lawal439@gmail.com,+2348100000439,Gold,Bank Transfer,2024-08-20,Active
+CUS440,Joy,Ojo,Female,41,Ibadan,Oyo,joy.ojo440@gmail.com,+2348100000440,Regular,Mobile Money,2022-05-17,Active
+CUS441,Victor,Ibrahim,Male,31,Lagos,Lagos,victor.ibrahim441@gmail.com,+2348100000441,Platinum,Cash,2024-03-08,Active
+CUS442,Funke,Aina,Female,63,Kano,Kano,funke.aina442@gmail.com,+2348100000442,Silver,Bank Transfer,2024-09-21,Active
+CUS443,Samuel,John,Male,32,Benin City,Edo,samuel.john443@gmail.com,+2348100000443,Silver,Cash,2024-06-26,Active
+CUS444,Adebayo,Ali,Male,36,Benin City,Edo,adebayo.ali444@gmail.com,+2348100000444,Platinum,Card,2022-01-01,Active
+CUS445,Ngozi,Bello,Female,20,Lagos,Lagos,ngozi.bello445@gmail.com,+2348100000445,Regular,Card,2024-05-27,Active
+CUS446,Fatima,Sanni,Female,51,Lagos,Lagos,fatima.sanni446@gmail.com,+2348100000446,Silver,Mobile Money,2022-01-22,Active
+CUS447,Chioma,Sanni,Female,26,Ilorin,Kwara,chioma.sanni447@gmail.com,+2348100000447,Regular,Mobile Money,2022-11-10,Active
+CUS448,Abdul,Garba,Male,30,Kano,Kano,abdul.garba448@gmail.com,+2348100000448,Regular,Card,2024-11-01,Active
+CUS449,Tunde,Adeyemi,Male,58,Lagos,Lagos,tunde.adeyemi449@gmail.com,+2348100000449,Regular,Bank Transfer,2023-03-13,Active
+CUS450,Chinedu,Ojo,Male,35,Benin City,Edo,chinedu.ojo450@gmail.com,+2348100000450,Regular,Cash,2022-12-05,Active
+CUS451,Joseph,Ani,Male,61,Ilorin,Kwara,joseph.ani451@gmail.com,+2348100000451,Silver,Bank Transfer,2022-08-11,Active
+CUS452,Tunde,Bello,Male,54,Kano,Kano,tunde.bello452@gmail.com,+2348100000452,Regular,Card,2024-01-17,Active
+CUS453,Ifeoma,John,Female,62,Lagos,Lagos,ifeoma.john453@gmail.com,+2348100000453,Silver,Bank Transfer,2024-10-05,Active
+CUS454,Musa,Ojo,Male,42,Port Harcourt,Rivers,musa.ojo454@gmail.com,+2348100000454,Regular,Card,2024-05-15,Active
+CUS455,Joy,John,Female,55,Port Harcourt,Rivers,joy.john455@gmail.com,+2348100000455,Silver,Bank Transfer,2023-10-15,Active
+CUS456,Mary,Ojo,Female,36,Jos,Plateau,mary.ojo456@gmail.com,+2348100000456,Regular,Mobile Money,2024-09-26,Active
+CUS457,Kabiru,Ogunleye,Male,62,Port Harcourt,Rivers,kabiru.ogunleye457@gmail.com,+2348100000457,Regular,Cash,2025-03-26,Active
+CUS458,Esther,Nwosu,Female,51,Jos,Plateau,esther.nwosu458@gmail.com,+2348100000458,Regular,Card,2023-12-14,Inactive
+CUS459,Samuel,Ogunleye,Male,41,Lagos,Lagos,samuel.ogunleye459@gmail.com,+2348100000459,Regular,Mobile Money,2024-11-19,Active
+CUS460,Ayodele,Garba,Male,34,Lagos,Lagos,ayodele.garba460@gmail.com,+2348100000460,Gold,Cash,2023-12-12,Active
+CUS461,Mercy,Adeyemi,Female,49,Lagos,Lagos,mercy.adeyemi461@gmail.com,+2348100000461,Gold,Bank Transfer,2023-09-21,Active
+CUS462,Deborah,Ali,Female,63,Lagos,Lagos,deborah.ali462@gmail.com,+2348100000462,Regular,Cash,2024-04-09,Active
+CUS463,Joy,Ogunleye,Female,36,Ibadan,Oyo,joy.ogunleye463@gmail.com,+2348100000463,Regular,Cash,2022-12-27,Active
+CUS464,Bolanle,Ibrahim,Female,24,Lagos,Lagos,bolanle.ibrahim464@gmail.com,+2348100000464,Regular,Card,2025-12-18,Active
+CUS465,Joy,Adeyemi,Female,24,Jos,Plateau,joy.adeyemi465@gmail.com,+2348100000465,Regular,Bank Transfer,2022-12-17,Active
+CUS466,Joy,Lawal,Female,19,Lagos,Lagos,joy.lawal466@gmail.com,+2348100000466,Silver,Card,2023-07-03,Active
+CUS467,Seyi,Ojo,Male,19,Port Harcourt,Rivers,seyi.ojo467@gmail.com,+2348100000467,Regular,Mobile Money,2022-06-03,Active
+CUS468,Tunde,Ani,Male,55,Lagos,Lagos,tunde.ani468@gmail.com,+2348100000468,Regular,Card,2022-06-26,Active
+CUS469,Kelechi,Aina,Male,59,Enugu,Enugu,kelechi.aina469@gmail.com,+2348100000469,Silver,Cash,2025-10-12,Active
+CUS470,Musa,Adeyemi,Male,48,Port Harcourt,Rivers,musa.adeyemi470@gmail.com,+2348100000470,Platinum,Cash,2022-07-18,Active
+CUS471,Mercy,Ojo,Female,40,Kano,Kano,mercy.ojo471@gmail.com,+2348100000471,Platinum,Card,2024-10-06,Active
+CUS472,Musa,Eze,Male,57,Lagos,Lagos,musa.eze472@gmail.com,+2348100000472,Regular,Cash,2023-04-05,Active
+CUS473,Deborah,Garba,Female,22,Enugu,Enugu,deborah.garba473@gmail.com,+2348100000473,Regular,Card,2023-12-27,Active
+CUS474,Chinedu,Nwosu,Male,44,Lagos,Lagos,chinedu.nwosu474@gmail.com,+2348100000474,Silver,Mobile Money,2025-04-28,Active
+CUS475,Chinedu,Ibrahim,Male,64,Ibadan,Oyo,chinedu.ibrahim475@gmail.com,+2348100000475,Regular,Cash,2023-07-28,Active
+CUS476,Mercy,Lawal,Female,64,Abeokuta,Ogun,mercy.lawal476@gmail.com,+2348100000476,Gold,Bank Transfer,2023-06-26,Active
+CUS477,Grace,Eze,Female,45,Ilorin,Kwara,grace.eze477@gmail.com,+2348100000477,Silver,Card,2025-01-25,Active
+CUS478,Adebayo,Bello,Male,49,Kano,Kano,adebayo.bello478@gmail.com,+2348100000478,Regular,Mobile Money,2022-02-27,Active
+CUS479,Ngozi,Nwosu,Female,26,Abuja,FCT,ngozi.nwosu479@gmail.com,+2348100000479,Platinum,Cash,2023-05-13,Active
+CUS480,Esther,John,Female,23,Lagos,Lagos,esther.john480@gmail.com,+2348100000480,Silver,Bank Transfer,2024-01-19,Active
+CUS481,Kelechi,Okafor,Male,28,Abuja,FCT,kelechi.okafor481@gmail.com,+2348100000481,Regular,Mobile Money,2022-12-19,Active
+CUS482,Ayodele,Okeke,Male,33,Ibadan,Oyo,ayodele.okeke482@gmail.com,+2348100000482,Regular,Card,2023-12-04,Active
+CUS483,Ruth,Aina,Female,57,Enugu,Enugu,ruth.aina483@gmail.com,+2348100000483,Gold,Mobile Money,2025-09-12,Active
+CUS484,Victor,Sanni,Male,58,Abuja,FCT,victor.sanni484@gmail.com,+2348100000484,Regular,Bank Transfer,2023-11-18,Active
+CUS485,Ruth,Peters,Female,50,Kano,Kano,ruth.peters485@gmail.com,+2348100000485,Regular,Mobile Money,2024-01-11,Active
+CUS486,Musa,Aina,Male,51,Lagos,Lagos,musa.aina486@gmail.com,+2348100000486,Gold,Bank Transfer,2023-02-14,Active
+CUS487,David,Okafor,Male,58,Lagos,Lagos,david.okafor487@gmail.com,+2348100000487,Silver,Cash,2025-07-10,Active
+CUS488,Ruth,Aina,Female,31,Enugu,Enugu,ruth.aina488@gmail.com,+2348100000488,Regular,Cash,2022-01-04,Active
+CUS489,Seyi,Ojo,Male,46,Ibadan,Oyo,seyi.ojo489@gmail.com,+2348100000489,Regular,Bank Transfer,2022-06-13,Active
+CUS490,Kemi,Ani,Female,35,Ibadan,Oyo,kemi.ani490@gmail.com,+2348100000490,Regular,Bank Transfer,2025-04-20,Active
+CUS491,Ngozi,Pam,Female,57,Lagos,Lagos,ngozi.pam491@gmail.com,+2348100000491,Regular,Cash,2025-12-07,Inactive
+CUS492,Omotola,Adebayo,Female,18,Benin City,Edo,omotola.adebayo492@gmail.com,+2348100000492,Silver,Card,2022-02-11,Active
+CUS493,Ifeoma,Bello,Female,49,Port Harcourt,Rivers,ifeoma.bello493@gmail.com,+2348100000493,Regular,Mobile Money,2025-12-21,Active
+CUS494,Sodiq,Okeke,Male,62,Kano,Kano,sodiq.okeke494@gmail.com,+2348100000494,Regular,Cash,2022-04-15,Active
+CUS495,Chioma,Pam,Female,39,Abuja,FCT,chioma.pam495@gmail.com,+2348100000495,Silver,Card,2022-08-08,Active
+CUS496,Victor,Ibrahim,Male,27,Port Harcourt,Rivers,victor.ibrahim496@gmail.com,+2348100000496,Platinum,Cash,2024-11-11,Active
+CUS497,Abdul,Okafor,Male,46,Ibadan,Oyo,abdul.okafor497@gmail.com,+2348100000497,Regular,Mobile Money,2022-03-16,Active
+CUS498,Omotola,Garba,Female,55,Lagos,Lagos,omotola.garba498@gmail.com,+2348100000498,Regular,Cash,2022-04-10,Active
+CUS499,Musa,Ibrahim,Male,21,Abuja,FCT,musa.ibrahim499@gmail.com,+2348100000499,Regular,Mobile Money,2022-04-16,Active
+CUS500,Bolanle,Ogunleye,Female,59,Lagos,Lagos,bolanle.ogunleye500@gmail.com,+2348100000500,Gold,Mobile Money,2022-09-01,Active
