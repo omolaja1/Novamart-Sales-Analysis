@@ -9,9 +9,9 @@ The project includes:
 - Interactive Power BI dashboard
 - Sales performance insights
 
----
-
 For detailed project documentation, see Project_Overview.pdf.
+
+---
 
 # Tools Used
 - MySQL
